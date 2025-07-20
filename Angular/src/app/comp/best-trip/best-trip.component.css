@@ -1,0 +1,115 @@
+.container {
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  background-image: url(../../../assets/16.png);
+  background-size: cover;
+  background-position: center;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  margin-top: 5%;
+ 
+}
+.best-trip-container {
+  text-align: center;
+  padding: 30px;
+  background-color: rgba(245, 245, 245, 0.8); 
+  border-radius: 20px;
+  box-shadow: 0px 15px 30px rgba(0, 0, 0, 0.15);
+  max-width: 900px;
+  margin: 30px auto;
+  transition: transform 0.3s ease;
+}
+
+.best-trip-container:hover {
+  transform: scale(1.02);  
+}
+
+h2 {
+  color: #333;
+  font-size: 2.5rem;
+  font-weight: bold;
+  margin-bottom: 20px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+.trip-info {
+  background: #fff;
+  padding: 20px;
+  border-radius: 15px;
+  box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.1);
+  margin-bottom: 30px;
+  transition: background-color 0.3s ease;
+}
+
+.trip-info:hover {
+  background-color: #f0f0f0;
+}
+
+.places-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 30px;
+}
+
+.place-card {
+  background: white;
+  padding: 20px;
+  border-radius: 12px;
+  box-shadow: 0px 10px 25px rgba(0, 0, 0, 0.1);
+  width: 280px;
+  text-align: right; 
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.place-card h3,
+.place-card p,
+.place-card a {
+  text-align: right; 
+}
+
+
+.place-card:hover {
+  transform: translateY(-10px);
+  box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.2);
+}
+
+.place-card h3 {
+  margin-top: 0;
+  color: #444;
+  font-size: 1.4rem;
+  font-weight: 600;
+}
+
+.place-card p {
+  color: #555;
+  font-size: 1rem;
+  margin: 8px 0;
+}
+
+.place-card a {
+  display: block;
+  margin-top: 15px;
+  color: #FF6F61;
+  font-weight: bold;
+  text-decoration: none;
+  font-size: 1.1rem;
+  transition: color 0.3s ease;
+}
+
+.place-card a:hover {
+  color: #FF3E36;
+  text-decoration: underline;
+}
+
+.no-trips-message {
+  font-size: 1.2rem;
+  color: rgb(26, 156, 98);
+  font-weight: bold;
+  margin-top: 20%;
+  margin-left: 40%;
+  text-align: center;
+}

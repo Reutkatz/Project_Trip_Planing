@@ -1,0 +1,818 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Tamar\\Desktop\\\u05D4\u05DE\u05D7\u05E9\u05D1 \u05D4\u05E7\u05D5\u05D3\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC-\u05D2\u05E8\u05E1\u05D0\u05D5\u05EA\\\u05E9\u05D5\u05E9\u05D9\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F39B8A71-984D-4DC6-962D-7DBB3571A4C4}|TripPlaning.Service\\TripPlaning.Service.csproj|c:\\users\\tamar\\desktop\\\u05D4\u05DE\u05D7\u05E9\u05D1 \u05D4\u05E7\u05D5\u05D3\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC-\u05D2\u05E8\u05E1\u05D0\u05D5\u05EA\\\u05E9\u05D5\u05E9\u05D9\\tripplaning.service\\tripalgo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F39B8A71-984D-4DC6-962D-7DBB3571A4C4}|TripPlaning.Service\\TripPlaning.Service.csproj|solutionrelative:tripplaning.service\\tripalgo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Tamar\\Desktop\\\u05D4\u05DE\u05D7\u05E9\u05D1 \u05D4\u05E7\u05D5\u05D3\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC-\u05D2\u05E8\u05E1\u05D0\u05D5\u05EA\\\u05E9\u05D5\u05E9\u05D9\\TripPlaning.Data\\Migrations\\20250718093715_createDB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TripPlaning.Data\\Migrations\\20250718093715_createDB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C86D44CA-020A-469E-A5F5-03059F7A0492}|TripPlaning.API\\TripPlaning.API.csproj|c:\\users\\tamar\\desktop\\\u05D4\u05DE\u05D7\u05E9\u05D1 \u05D4\u05E7\u05D5\u05D3\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC-\u05D2\u05E8\u05E1\u05D0\u05D5\u05EA\\\u05E9\u05D5\u05E9\u05D9\\tripplaning.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C86D44CA-020A-469E-A5F5-03059F7A0492}|TripPlaning.API\\TripPlaning.API.csproj|solutionrelative:tripplaning.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C86D44CA-020A-469E-A5F5-03059F7A0492}|TripPlaning.API\\TripPlaning.API.csproj|c:\\users\\tamar\\desktop\\\u05D4\u05DE\u05D7\u05E9\u05D1 \u05D4\u05E7\u05D5\u05D3\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC-\u05D2\u05E8\u05E1\u05D0\u05D5\u05EA\\\u05E9\u05D5\u05E9\u05D9\\tripplaning.api\\controllers\\attractioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C86D44CA-020A-469E-A5F5-03059F7A0492}|TripPlaning.API\\TripPlaning.API.csproj|solutionrelative:tripplaning.api\\controllers\\attractioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C86D44CA-020A-469E-A5F5-03059F7A0492}|TripPlaning.API\\TripPlaning.API.csproj|c:\\users\\tamar\\desktop\\\u05D4\u05DE\u05D7\u05E9\u05D1 \u05D4\u05E7\u05D5\u05D3\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC-\u05D2\u05E8\u05E1\u05D0\u05D5\u05EA\\\u05E9\u05D5\u05E9\u05D9\\tripplaning.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C86D44CA-020A-469E-A5F5-03059F7A0492}|TripPlaning.API\\TripPlaning.API.csproj|solutionrelative:tripplaning.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C86D44CA-020A-469E-A5F5-03059F7A0492}|TripPlaning.API\\TripPlaning.API.csproj|c:\\users\\tamar\\desktop\\\u05D4\u05DE\u05D7\u05E9\u05D1 \u05D4\u05E7\u05D5\u05D3\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC-\u05D2\u05E8\u05E1\u05D0\u05D5\u05EA\\\u05E9\u05D5\u05E9\u05D9\\tripplaning.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C86D44CA-020A-469E-A5F5-03059F7A0492}|TripPlaning.API\\TripPlaning.API.csproj|solutionrelative:tripplaning.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C86D44CA-020A-469E-A5F5-03059F7A0492}|TripPlaning.API\\TripPlaning.API.csproj|c:\\users\\tamar\\desktop\\\u05D4\u05DE\u05D7\u05E9\u05D1 \u05D4\u05E7\u05D5\u05D3\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC-\u05D2\u05E8\u05E1\u05D0\u05D5\u05EA\\\u05E9\u05D5\u05E9\u05D9\\tripplaning.api\\controllers\\tripcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C86D44CA-020A-469E-A5F5-03059F7A0492}|TripPlaning.API\\TripPlaning.API.csproj|solutionrelative:tripplaning.api\\controllers\\tripcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C86D44CA-020A-469E-A5F5-03059F7A0492}|TripPlaning.API\\TripPlaning.API.csproj|c:\\users\\tamar\\desktop\\\u05D4\u05DE\u05D7\u05E9\u05D1 \u05D4\u05E7\u05D5\u05D3\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC-\u05D2\u05E8\u05E1\u05D0\u05D5\u05EA\\\u05E9\u05D5\u05E9\u05D9\\tripplaning.api\\controllers\\trailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C86D44CA-020A-469E-A5F5-03059F7A0492}|TripPlaning.API\\TripPlaning.API.csproj|solutionrelative:tripplaning.api\\controllers\\trailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C86D44CA-020A-469E-A5F5-03059F7A0492}|TripPlaning.API\\TripPlaning.API.csproj|c:\\users\\tamar\\desktop\\\u05D4\u05DE\u05D7\u05E9\u05D1 \u05D4\u05E7\u05D5\u05D3\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC-\u05D2\u05E8\u05E1\u05D0\u05D5\u05EA\\\u05E9\u05D5\u05E9\u05D9\\tripplaning.api\\controllers\\stopoverplacecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C86D44CA-020A-469E-A5F5-03059F7A0492}|TripPlaning.API\\TripPlaning.API.csproj|solutionrelative:tripplaning.api\\controllers\\stopoverplacecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C86D44CA-020A-469E-A5F5-03059F7A0492}|TripPlaning.API\\TripPlaning.API.csproj|c:\\users\\tamar\\desktop\\\u05D4\u05DE\u05D7\u05E9\u05D1 \u05D4\u05E7\u05D5\u05D3\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC-\u05D2\u05E8\u05E1\u05D0\u05D5\u05EA\\\u05E9\u05D5\u05E9\u05D9\\tripplaning.api\\controllers\\openinghourscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C86D44CA-020A-469E-A5F5-03059F7A0492}|TripPlaning.API\\TripPlaning.API.csproj|solutionrelative:tripplaning.api\\controllers\\openinghourscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECD327A8-4EF0-466F-833E-C969A731B17C}|TripPlaning.Core\\TripPlaning.Core.csproj|c:\\users\\tamar\\desktop\\\u05D4\u05DE\u05D7\u05E9\u05D1 \u05D4\u05E7\u05D5\u05D3\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC-\u05D2\u05E8\u05E1\u05D0\u05D5\u05EA\\\u05E9\u05D5\u05E9\u05D9\\tripplaning.core\\model\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECD327A8-4EF0-466F-833E-C969A731B17C}|TripPlaning.Core\\TripPlaning.Core.csproj|solutionrelative:tripplaning.core\\model\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F39B8A71-984D-4DC6-962D-7DBB3571A4C4}|TripPlaning.Service\\TripPlaning.Service.csproj|c:\\users\\tamar\\desktop\\\u05D4\u05DE\u05D7\u05E9\u05D1 \u05D4\u05E7\u05D5\u05D3\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC-\u05D2\u05E8\u05E1\u05D0\u05D5\u05EA\\\u05E9\u05D5\u05E9\u05D9\\tripplaning.service\\attractionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F39B8A71-984D-4DC6-962D-7DBB3571A4C4}|TripPlaning.Service\\TripPlaning.Service.csproj|solutionrelative:tripplaning.service\\attractionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F39B8A71-984D-4DC6-962D-7DBB3571A4C4}|TripPlaning.Service\\TripPlaning.Service.csproj|c:\\users\\tamar\\desktop\\\u05D4\u05DE\u05D7\u05E9\u05D1 \u05D4\u05E7\u05D5\u05D3\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC-\u05D2\u05E8\u05E1\u05D0\u05D5\u05EA\\\u05E9\u05D5\u05E9\u05D9\\tripplaning.service\\trailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F39B8A71-984D-4DC6-962D-7DBB3571A4C4}|TripPlaning.Service\\TripPlaning.Service.csproj|solutionrelative:tripplaning.service\\trailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F39B8A71-984D-4DC6-962D-7DBB3571A4C4}|TripPlaning.Service\\TripPlaning.Service.csproj|c:\\users\\tamar\\desktop\\\u05D4\u05DE\u05D7\u05E9\u05D1 \u05D4\u05E7\u05D5\u05D3\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC-\u05D2\u05E8\u05E1\u05D0\u05D5\u05EA\\\u05E9\u05D5\u05E9\u05D9\\tripplaning.service\\stopoverplaceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F39B8A71-984D-4DC6-962D-7DBB3571A4C4}|TripPlaning.Service\\TripPlaning.Service.csproj|solutionrelative:tripplaning.service\\stopoverplaceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F39B8A71-984D-4DC6-962D-7DBB3571A4C4}|TripPlaning.Service\\TripPlaning.Service.csproj|c:\\users\\tamar\\desktop\\\u05D4\u05DE\u05D7\u05E9\u05D1 \u05D4\u05E7\u05D5\u05D3\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC-\u05D2\u05E8\u05E1\u05D0\u05D5\u05EA\\\u05E9\u05D5\u05E9\u05D9\\tripplaning.service\\openhoursservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F39B8A71-984D-4DC6-962D-7DBB3571A4C4}|TripPlaning.Service\\TripPlaning.Service.csproj|solutionrelative:tripplaning.service\\openhoursservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A9E66F0-4E48-48DF-B432-D57A10A4EF41}|TripPlaning.Data\\TripPlaning.Data.csproj|c:\\users\\tamar\\desktop\\\u05D4\u05DE\u05D7\u05E9\u05D1 \u05D4\u05E7\u05D5\u05D3\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC-\u05D2\u05E8\u05E1\u05D0\u05D5\u05EA\\\u05E9\u05D5\u05E9\u05D9\\tripplaning.data\\repositories\\trailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A9E66F0-4E48-48DF-B432-D57A10A4EF41}|TripPlaning.Data\\TripPlaning.Data.csproj|solutionrelative:tripplaning.data\\repositories\\trailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A9E66F0-4E48-48DF-B432-D57A10A4EF41}|TripPlaning.Data\\TripPlaning.Data.csproj|c:\\users\\tamar\\desktop\\\u05D4\u05DE\u05D7\u05E9\u05D1 \u05D4\u05E7\u05D5\u05D3\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC-\u05D2\u05E8\u05E1\u05D0\u05D5\u05EA\\\u05E9\u05D5\u05E9\u05D9\\tripplaning.data\\repositories\\stopoverplacerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A9E66F0-4E48-48DF-B432-D57A10A4EF41}|TripPlaning.Data\\TripPlaning.Data.csproj|solutionrelative:tripplaning.data\\repositories\\stopoverplacerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECD327A8-4EF0-466F-833E-C969A731B17C}|TripPlaning.Core\\TripPlaning.Core.csproj|c:\\users\\tamar\\desktop\\\u05D4\u05DE\u05D7\u05E9\u05D1 \u05D4\u05E7\u05D5\u05D3\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC-\u05D2\u05E8\u05E1\u05D0\u05D5\u05EA\\\u05E9\u05D5\u05E9\u05D9\\tripplaning.core\\service\\itrailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECD327A8-4EF0-466F-833E-C969A731B17C}|TripPlaning.Core\\TripPlaning.Core.csproj|solutionrelative:tripplaning.core\\service\\itrailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECD327A8-4EF0-466F-833E-C969A731B17C}|TripPlaning.Core\\TripPlaning.Core.csproj|c:\\users\\tamar\\desktop\\\u05D4\u05DE\u05D7\u05E9\u05D1 \u05D4\u05E7\u05D5\u05D3\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC-\u05D2\u05E8\u05E1\u05D0\u05D5\u05EA\\\u05E9\u05D5\u05E9\u05D9\\tripplaning.core\\service\\istopoverplaceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECD327A8-4EF0-466F-833E-C969A731B17C}|TripPlaning.Core\\TripPlaning.Core.csproj|solutionrelative:tripplaning.core\\service\\istopoverplaceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECD327A8-4EF0-466F-833E-C969A731B17C}|TripPlaning.Core\\TripPlaning.Core.csproj|c:\\users\\tamar\\desktop\\\u05D4\u05DE\u05D7\u05E9\u05D1 \u05D4\u05E7\u05D5\u05D3\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC-\u05D2\u05E8\u05E1\u05D0\u05D5\u05EA\\\u05E9\u05D5\u05E9\u05D9\\tripplaning.core\\repositories\\itrailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECD327A8-4EF0-466F-833E-C969A731B17C}|TripPlaning.Core\\TripPlaning.Core.csproj|solutionrelative:tripplaning.core\\repositories\\itrailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECD327A8-4EF0-466F-833E-C969A731B17C}|TripPlaning.Core\\TripPlaning.Core.csproj|c:\\users\\tamar\\desktop\\\u05D4\u05DE\u05D7\u05E9\u05D1 \u05D4\u05E7\u05D5\u05D3\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC-\u05D2\u05E8\u05E1\u05D0\u05D5\u05EA\\\u05E9\u05D5\u05E9\u05D9\\tripplaning.core\\repositories\\istopoverplacerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECD327A8-4EF0-466F-833E-C969A731B17C}|TripPlaning.Core\\TripPlaning.Core.csproj|solutionrelative:tripplaning.core\\repositories\\istopoverplacerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A9E66F0-4E48-48DF-B432-D57A10A4EF41}|TripPlaning.Data\\TripPlaning.Data.csproj|c:\\users\\tamar\\desktop\\\u05D4\u05DE\u05D7\u05E9\u05D1 \u05D4\u05E7\u05D5\u05D3\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC-\u05D2\u05E8\u05E1\u05D0\u05D5\u05EA\\\u05E9\u05D5\u05E9\u05D9\\tripplaning.data\\repositories\\attractionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A9E66F0-4E48-48DF-B432-D57A10A4EF41}|TripPlaning.Data\\TripPlaning.Data.csproj|solutionrelative:tripplaning.data\\repositories\\attractionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECD327A8-4EF0-466F-833E-C969A731B17C}|TripPlaning.Core\\TripPlaning.Core.csproj|c:\\users\\tamar\\desktop\\\u05D4\u05DE\u05D7\u05E9\u05D1 \u05D4\u05E7\u05D5\u05D3\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC-\u05D2\u05E8\u05E1\u05D0\u05D5\u05EA\\\u05E9\u05D5\u05E9\u05D9\\tripplaning.core\\service\\iattractionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECD327A8-4EF0-466F-833E-C969A731B17C}|TripPlaning.Core\\TripPlaning.Core.csproj|solutionrelative:tripplaning.core\\service\\iattractionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECD327A8-4EF0-466F-833E-C969A731B17C}|TripPlaning.Core\\TripPlaning.Core.csproj|c:\\users\\tamar\\desktop\\\u05D4\u05DE\u05D7\u05E9\u05D1 \u05D4\u05E7\u05D5\u05D3\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC-\u05D2\u05E8\u05E1\u05D0\u05D5\u05EA\\\u05E9\u05D5\u05E9\u05D9\\tripplaning.core\\repositories\\iattractionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECD327A8-4EF0-466F-833E-C969A731B17C}|TripPlaning.Core\\TripPlaning.Core.csproj|solutionrelative:tripplaning.core\\repositories\\iattractionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECD327A8-4EF0-466F-833E-C969A731B17C}|TripPlaning.Core\\TripPlaning.Core.csproj|c:\\users\\tamar\\desktop\\\u05D4\u05DE\u05D7\u05E9\u05D1 \u05D4\u05E7\u05D5\u05D3\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC-\u05D2\u05E8\u05E1\u05D0\u05D5\u05EA\\\u05E9\u05D5\u05E9\u05D9\\tripplaning.core\\model\\openinghours.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECD327A8-4EF0-466F-833E-C969A731B17C}|TripPlaning.Core\\TripPlaning.Core.csproj|solutionrelative:tripplaning.core\\model\\openinghours.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECD327A8-4EF0-466F-833E-C969A731B17C}|TripPlaning.Core\\TripPlaning.Core.csproj|c:\\users\\tamar\\desktop\\\u05D4\u05DE\u05D7\u05E9\u05D1 \u05D4\u05E7\u05D5\u05D3\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC-\u05D2\u05E8\u05E1\u05D0\u05D5\u05EA\\\u05E9\u05D5\u05E9\u05D9\\tripplaning.core\\model\\attraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECD327A8-4EF0-466F-833E-C969A731B17C}|TripPlaning.Core\\TripPlaning.Core.csproj|solutionrelative:tripplaning.core\\model\\attraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECD327A8-4EF0-466F-833E-C969A731B17C}|TripPlaning.Core\\TripPlaning.Core.csproj|c:\\users\\tamar\\desktop\\\u05D4\u05DE\u05D7\u05E9\u05D1 \u05D4\u05E7\u05D5\u05D3\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC-\u05D2\u05E8\u05E1\u05D0\u05D5\u05EA\\\u05E9\u05D5\u05E9\u05D9\\tripplaning.core\\model\\trail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECD327A8-4EF0-466F-833E-C969A731B17C}|TripPlaning.Core\\TripPlaning.Core.csproj|solutionrelative:tripplaning.core\\model\\trail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECD327A8-4EF0-466F-833E-C969A731B17C}|TripPlaning.Core\\TripPlaning.Core.csproj|c:\\users\\tamar\\desktop\\\u05D4\u05DE\u05D7\u05E9\u05D1 \u05D4\u05E7\u05D5\u05D3\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC-\u05D2\u05E8\u05E1\u05D0\u05D5\u05EA\\\u05E9\u05D5\u05E9\u05D9\\tripplaning.core\\model\\stopoverplace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECD327A8-4EF0-466F-833E-C969A731B17C}|TripPlaning.Core\\TripPlaning.Core.csproj|solutionrelative:tripplaning.core\\model\\stopoverplace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECD327A8-4EF0-466F-833E-C969A731B17C}|TripPlaning.Core\\TripPlaning.Core.csproj|c:\\users\\tamar\\desktop\\\u05D4\u05DE\u05D7\u05E9\u05D1 \u05D4\u05E7\u05D5\u05D3\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC-\u05D2\u05E8\u05E1\u05D0\u05D5\u05EA\\\u05E9\u05D5\u05E9\u05D9\\tripplaning.core\\model\\place.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECD327A8-4EF0-466F-833E-C969A731B17C}|TripPlaning.Core\\TripPlaning.Core.csproj|solutionrelative:tripplaning.core\\model\\place.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECD327A8-4EF0-466F-833E-C969A731B17C}|TripPlaning.Core\\TripPlaning.Core.csproj|c:\\users\\tamar\\desktop\\\u05D4\u05DE\u05D7\u05E9\u05D1 \u05D4\u05E7\u05D5\u05D3\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC-\u05D2\u05E8\u05E1\u05D0\u05D5\u05EA\\\u05E9\u05D5\u05E9\u05D9\\tripplaning.core\\service\\iopenhoursservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECD327A8-4EF0-466F-833E-C969A731B17C}|TripPlaning.Core\\TripPlaning.Core.csproj|solutionrelative:tripplaning.core\\service\\iopenhoursservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A9E66F0-4E48-48DF-B432-D57A10A4EF41}|TripPlaning.Data\\TripPlaning.Data.csproj|c:\\users\\tamar\\desktop\\\u05D4\u05DE\u05D7\u05E9\u05D1 \u05D4\u05E7\u05D5\u05D3\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC-\u05D2\u05E8\u05E1\u05D0\u05D5\u05EA\\\u05E9\u05D5\u05E9\u05D9\\tripplaning.data\\repositories\\openhoursrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A9E66F0-4E48-48DF-B432-D57A10A4EF41}|TripPlaning.Data\\TripPlaning.Data.csproj|solutionrelative:tripplaning.data\\repositories\\openhoursrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECD327A8-4EF0-466F-833E-C969A731B17C}|TripPlaning.Core\\TripPlaning.Core.csproj|c:\\users\\tamar\\desktop\\\u05D4\u05DE\u05D7\u05E9\u05D1 \u05D4\u05E7\u05D5\u05D3\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC-\u05D2\u05E8\u05E1\u05D0\u05D5\u05EA\\\u05E9\u05D5\u05E9\u05D9\\tripplaning.core\\repositories\\iopenhoursrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECD327A8-4EF0-466F-833E-C969A731B17C}|TripPlaning.Core\\TripPlaning.Core.csproj|solutionrelative:tripplaning.core\\repositories\\iopenhoursrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A9E66F0-4E48-48DF-B432-D57A10A4EF41}|TripPlaning.Data\\TripPlaning.Data.csproj|c:\\users\\tamar\\desktop\\\u05D4\u05DE\u05D7\u05E9\u05D1 \u05D4\u05E7\u05D5\u05D3\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC-\u05D2\u05E8\u05E1\u05D0\u05D5\u05EA\\\u05E9\u05D5\u05E9\u05D9\\tripplaning.data\\repositories\\triprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A9E66F0-4E48-48DF-B432-D57A10A4EF41}|TripPlaning.Data\\TripPlaning.Data.csproj|solutionrelative:tripplaning.data\\repositories\\triprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A9E66F0-4E48-48DF-B432-D57A10A4EF41}|TripPlaning.Data\\TripPlaning.Data.csproj|c:\\users\\tamar\\desktop\\\u05D4\u05DE\u05D7\u05E9\u05D1 \u05D4\u05E7\u05D5\u05D3\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC-\u05D2\u05E8\u05E1\u05D0\u05D5\u05EA\\\u05E9\u05D5\u05E9\u05D9\\tripplaning.data\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A9E66F0-4E48-48DF-B432-D57A10A4EF41}|TripPlaning.Data\\TripPlaning.Data.csproj|solutionrelative:tripplaning.data\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F39B8A71-984D-4DC6-962D-7DBB3571A4C4}|TripPlaning.Service\\TripPlaning.Service.csproj|c:\\users\\tamar\\desktop\\\u05D4\u05DE\u05D7\u05E9\u05D1 \u05D4\u05E7\u05D5\u05D3\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC-\u05D2\u05E8\u05E1\u05D0\u05D5\u05EA\\\u05E9\u05D5\u05E9\u05D9\\tripplaning.service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F39B8A71-984D-4DC6-962D-7DBB3571A4C4}|TripPlaning.Service\\TripPlaning.Service.csproj|solutionrelative:tripplaning.service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A9E66F0-4E48-48DF-B432-D57A10A4EF41}|TripPlaning.Data\\TripPlaning.Data.csproj|c:\\users\\tamar\\desktop\\\u05D4\u05DE\u05D7\u05E9\u05D1 \u05D4\u05E7\u05D5\u05D3\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC-\u05D2\u05E8\u05E1\u05D0\u05D5\u05EA\\\u05E9\u05D5\u05E9\u05D9\\tripplaning.data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A9E66F0-4E48-48DF-B432-D57A10A4EF41}|TripPlaning.Data\\TripPlaning.Data.csproj|solutionrelative:tripplaning.data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECD327A8-4EF0-466F-833E-C969A731B17C}|TripPlaning.Core\\TripPlaning.Core.csproj|c:\\users\\tamar\\desktop\\\u05D4\u05DE\u05D7\u05E9\u05D1 \u05D4\u05E7\u05D5\u05D3\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC-\u05D2\u05E8\u05E1\u05D0\u05D5\u05EA\\\u05E9\u05D5\u05E9\u05D9\\tripplaning.core\\model\\trip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECD327A8-4EF0-466F-833E-C969A731B17C}|TripPlaning.Core\\TripPlaning.Core.csproj|solutionrelative:tripplaning.core\\model\\trip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECD327A8-4EF0-466F-833E-C969A731B17C}|TripPlaning.Core\\TripPlaning.Core.csproj|c:\\users\\tamar\\desktop\\\u05D4\u05DE\u05D7\u05E9\u05D1 \u05D4\u05E7\u05D5\u05D3\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC-\u05D2\u05E8\u05E1\u05D0\u05D5\u05EA\\\u05E9\u05D5\u05E9\u05D9\\tripplaning.core\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECD327A8-4EF0-466F-833E-C969A731B17C}|TripPlaning.Core\\TripPlaning.Core.csproj|solutionrelative:tripplaning.core\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F39B8A71-984D-4DC6-962D-7DBB3571A4C4}|TripPlaning.Service\\TripPlaning.Service.csproj|c:\\users\\tamar\\desktop\\\u05D4\u05DE\u05D7\u05E9\u05D1 \u05D4\u05E7\u05D5\u05D3\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC-\u05D2\u05E8\u05E1\u05D0\u05D5\u05EA\\\u05E9\u05D5\u05E9\u05D9\\tripplaning.service\\tripservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F39B8A71-984D-4DC6-962D-7DBB3571A4C4}|TripPlaning.Service\\TripPlaning.Service.csproj|solutionrelative:tripplaning.service\\tripservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECD327A8-4EF0-466F-833E-C969A731B17C}|TripPlaning.Core\\TripPlaning.Core.csproj|c:\\users\\tamar\\desktop\\\u05D4\u05DE\u05D7\u05E9\u05D1 \u05D4\u05E7\u05D5\u05D3\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC-\u05D2\u05E8\u05E1\u05D0\u05D5\u05EA\\\u05E9\u05D5\u05E9\u05D9\\tripplaning.core\\service\\itripservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECD327A8-4EF0-466F-833E-C969A731B17C}|TripPlaning.Core\\TripPlaning.Core.csproj|solutionrelative:tripplaning.core\\service\\itripservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECD327A8-4EF0-466F-833E-C969A731B17C}|TripPlaning.Core\\TripPlaning.Core.csproj|c:\\users\\tamar\\desktop\\\u05D4\u05DE\u05D7\u05E9\u05D1 \u05D4\u05E7\u05D5\u05D3\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC-\u05D2\u05E8\u05E1\u05D0\u05D5\u05EA\\\u05E9\u05D5\u05E9\u05D9\\tripplaning.core\\repositories\\itriprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECD327A8-4EF0-466F-833E-C969A731B17C}|TripPlaning.Core\\TripPlaning.Core.csproj|solutionrelative:tripplaning.core\\repositories\\itriprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECD327A8-4EF0-466F-833E-C969A731B17C}|TripPlaning.Core\\TripPlaning.Core.csproj|c:\\users\\tamar\\desktop\\\u05D4\u05DE\u05D7\u05E9\u05D1 \u05D4\u05E7\u05D5\u05D3\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC-\u05D2\u05E8\u05E1\u05D0\u05D5\u05EA\\\u05E9\u05D5\u05E9\u05D9\\tripplaning.core\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECD327A8-4EF0-466F-833E-C969A731B17C}|TripPlaning.Core\\TripPlaning.Core.csproj|solutionrelative:tripplaning.core\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u05DE\u05E9\u05D4 \u05D5\u05D0\u05DC\u05E1\\Downloads\\\u05E4\u05E8\u05D5\u05E7\u05D9\u05D8 \u05DE\u05D7\u05D5\u05D3\u05E9\\TripPlaning.Data\\Migrations\\20250323013938_addTime2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u05DE\u05E9\u05D4 \u05D5\u05D0\u05DC\u05E1\\Downloads\\\u05E4\u05E8\u05D5\u05E7\u05D9\u05D8 \u05DE\u05D7\u05D5\u05D3\u05E9\\TripPlaning.Data\\Migrations\\20250323012552_addTime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u05DE\u05E9\u05D4 \u05D5\u05D0\u05DC\u05E1\\Downloads\\\u05E4\u05E8\u05D5\u05E7\u05D9\u05D8 \u05DE\u05D7\u05D5\u05D3\u05E9\\TripPlaning.Data\\Migrations\\20250320110811_createDB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u05DE\u05E9\u05D4 \u05D5\u05D0\u05DC\u05E1\\Downloads\\\u05E4\u05E8\u05D5\u05E7\u05D9\u05D8 \u05DE\u05D7\u05D5\u05D3\u05E9\\TripPlaning.Data\\Migrations\\20250320110650_updateDB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C86D44CA-020A-469E-A5F5-03059F7A0492}|TripPlaning.API\\TripPlaning.API.csproj|c:\\users\\tamar\\desktop\\\u05D4\u05DE\u05D7\u05E9\u05D1 \u05D4\u05E7\u05D5\u05D3\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC-\u05D2\u05E8\u05E1\u05D0\u05D5\u05EA\\\u05E9\u05D5\u05E9\u05D9\\tripplaning.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C86D44CA-020A-469E-A5F5-03059F7A0492}|TripPlaning.API\\TripPlaning.API.csproj|solutionrelative:tripplaning.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C86D44CA-020A-469E-A5F5-03059F7A0492}|TripPlaning.API\\TripPlaning.API.csproj|c:\\users\\tamar\\desktop\\\u05D4\u05DE\u05D7\u05E9\u05D1 \u05D4\u05E7\u05D5\u05D3\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC-\u05D2\u05E8\u05E1\u05D0\u05D5\u05EA\\\u05E9\u05D5\u05E9\u05D9\\tripplaning.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C86D44CA-020A-469E-A5F5-03059F7A0492}|TripPlaning.API\\TripPlaning.API.csproj|solutionrelative:tripplaning.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C86D44CA-020A-469E-A5F5-03059F7A0492}|TripPlaning.API\\TripPlaning.API.csproj|c:\\users\\tamar\\desktop\\\u05D4\u05DE\u05D7\u05E9\u05D1 \u05D4\u05E7\u05D5\u05D3\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC-\u05D2\u05E8\u05E1\u05D0\u05D5\u05EA\\\u05E9\u05D5\u05E9\u05D9\\tripplaning.api\\tripplaning.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C86D44CA-020A-469E-A5F5-03059F7A0492}|TripPlaning.API\\TripPlaning.API.csproj|solutionrelative:tripplaning.api\\tripplaning.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECD327A8-4EF0-466F-833E-C969A731B17C}|TripPlaning.Core\\TripPlaning.Core.csproj|c:\\users\\tamar\\desktop\\\u05D4\u05DE\u05D7\u05E9\u05D1 \u05D4\u05E7\u05D5\u05D3\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC-\u05D2\u05E8\u05E1\u05D0\u05D5\u05EA\\\u05E9\u05D5\u05E9\u05D9\\tripplaning.core\\tripplaning.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{ECD327A8-4EF0-466F-833E-C969A731B17C}|TripPlaning.Core\\TripPlaning.Core.csproj|solutionrelative:tripplaning.core\\tripplaning.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20250718093715_createDB.cs",
+              "DocumentMoniker": "C:\\Users\\Tamar\\Desktop\\\u05D4\u05DE\u05D7\u05E9\u05D1 \u05D4\u05E7\u05D5\u05D3\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC-\u05D2\u05E8\u05E1\u05D0\u05D5\u05EA\\\u05E9\u05D5\u05E9\u05D9\\TripPlaning.Data\\Migrations\\20250718093715_createDB.cs",
+              "RelativeDocumentMoniker": "TripPlaning.Data\\Migrations\\20250718093715_createDB.cs",
+              "ToolTip": "C:\\Users\\Tamar\\Desktop\\\u05D4\u05DE\u05D7\u05E9\u05D1 \u05D4\u05E7\u05D5\u05D3\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC-\u05D2\u05E8\u05E1\u05D0\u05D5\u05EA\\\u05E9\u05D5\u05E9\u05D9\\TripPlaning.Data\\Migrations\\20250718093715_createDB.cs",
+              "RelativeToolTip": "TripPlaning.Data\\Migrations\\20250718093715_createDB.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T09:37:15.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TripController.cs",
+              "DocumentMoniker": "C:\\Users\\Tamar\\Desktop\\\u05D4\u05DE\u05D7\u05E9\u05D1 \u05D4\u05E7\u05D5\u05D3\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC-\u05D2\u05E8\u05E1\u05D0\u05D5\u05EA\\\u05E9\u05D5\u05E9\u05D9\\TripPlaning.API\\Controllers\\TripController.cs",
+              "RelativeDocumentMoniker": "TripPlaning.API\\Controllers\\TripController.cs",
+              "ToolTip": "C:\\Users\\Tamar\\Desktop\\\u05D4\u05DE\u05D7\u05E9\u05D1 \u05D4\u05E7\u05D5\u05D3\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC-\u05D2\u05E8\u05E1\u05D0\u05D5\u05EA\\\u05E9\u05D5\u05E9\u05D9\\TripPlaning.API\\Controllers\\TripController.cs",
+              "RelativeToolTip": "TripPlaning.API\\Controllers\\TripController.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAYwDAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T22:25:29.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Tamar\\Desktop\\\u05D4\u05DE\u05D7\u05E9\u05D1 \u05D4\u05E7\u05D5\u05D3\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC-\u05D2\u05E8\u05E1\u05D0\u05D5\u05EA\\\u05E9\u05D5\u05E9\u05D9\\TripPlaning.API\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "TripPlaning.API\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Tamar\\Desktop\\\u05D4\u05DE\u05D7\u05E9\u05D1 \u05D4\u05E7\u05D5\u05D3\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC-\u05D2\u05E8\u05E1\u05D0\u05D5\u05EA\\\u05E9\u05D5\u05E9\u05D9\\TripPlaning.API\\Controllers\\UserController.cs",
+              "RelativeToolTip": "TripPlaning.API\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T18:09:00.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Tamar\\Desktop\\\u05D4\u05DE\u05D7\u05E9\u05D1 \u05D4\u05E7\u05D5\u05D3\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC-\u05D2\u05E8\u05E1\u05D0\u05D5\u05EA\\\u05E9\u05D5\u05E9\u05D9\\TripPlaning.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "TripPlaning.API\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Tamar\\Desktop\\\u05D4\u05DE\u05D7\u05E9\u05D1 \u05D4\u05E7\u05D5\u05D3\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC-\u05D2\u05E8\u05E1\u05D0\u05D5\u05EA\\\u05E9\u05D5\u05E9\u05D9\\TripPlaning.API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "TripPlaning.API\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwC8AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T18:07:27.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AttractionController.cs",
+              "DocumentMoniker": "C:\\Users\\Tamar\\Desktop\\\u05D4\u05DE\u05D7\u05E9\u05D1 \u05D4\u05E7\u05D5\u05D3\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC-\u05D2\u05E8\u05E1\u05D0\u05D5\u05EA\\\u05E9\u05D5\u05E9\u05D9\\TripPlaning.API\\Controllers\\AttractionController.cs",
+              "RelativeDocumentMoniker": "TripPlaning.API\\Controllers\\AttractionController.cs",
+              "ToolTip": "C:\\Users\\Tamar\\Desktop\\\u05D4\u05DE\u05D7\u05E9\u05D1 \u05D4\u05E7\u05D5\u05D3\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC-\u05D2\u05E8\u05E1\u05D0\u05D5\u05EA\\\u05E9\u05D5\u05E9\u05D9\\TripPlaning.API\\Controllers\\AttractionController.cs",
+              "RelativeToolTip": "TripPlaning.API\\Controllers\\AttractionController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T09:00:08.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TripAlgo.cs",
+              "DocumentMoniker": "C:\\Users\\Tamar\\Desktop\\\u05D4\u05DE\u05D7\u05E9\u05D1 \u05D4\u05E7\u05D5\u05D3\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC-\u05D2\u05E8\u05E1\u05D0\u05D5\u05EA\\\u05E9\u05D5\u05E9\u05D9\\TripPlaning.Service\\TripAlgo.cs",
+              "RelativeDocumentMoniker": "TripPlaning.Service\\TripAlgo.cs",
+              "ToolTip": "C:\\Users\\Tamar\\Desktop\\\u05D4\u05DE\u05D7\u05E9\u05D1 \u05D4\u05E7\u05D5\u05D3\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC-\u05D2\u05E8\u05E1\u05D0\u05D5\u05EA\\\u05E9\u05D5\u05E9\u05D9\\TripPlaning.Service\\TripAlgo.cs*",
+              "RelativeToolTip": "TripPlaning.Service\\TripAlgo.cs*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAGYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T11:39:25.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StopoverPlaceController.cs",
+              "DocumentMoniker": "C:\\Users\\Tamar\\Desktop\\\u05D4\u05DE\u05D7\u05E9\u05D1 \u05D4\u05E7\u05D5\u05D3\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC-\u05D2\u05E8\u05E1\u05D0\u05D5\u05EA\\\u05E9\u05D5\u05E9\u05D9\\TripPlaning.API\\Controllers\\StopoverPlaceController.cs",
+              "RelativeDocumentMoniker": "TripPlaning.API\\Controllers\\StopoverPlaceController.cs",
+              "ToolTip": "C:\\Users\\Tamar\\Desktop\\\u05D4\u05DE\u05D7\u05E9\u05D1 \u05D4\u05E7\u05D5\u05D3\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC-\u05D2\u05E8\u05E1\u05D0\u05D5\u05EA\\\u05E9\u05D5\u05E9\u05D9\\TripPlaning.API\\Controllers\\StopoverPlaceController.cs",
+              "RelativeToolTip": "TripPlaning.API\\Controllers\\StopoverPlaceController.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAA9wD4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T10:52:33.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Tamar\\Desktop\\\u05D4\u05DE\u05D7\u05E9\u05D1 \u05D4\u05E7\u05D5\u05D3\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC-\u05D2\u05E8\u05E1\u05D0\u05D5\u05EA\\\u05E9\u05D5\u05E9\u05D9\\TripPlaning.API\\Program.cs",
+              "RelativeDocumentMoniker": "TripPlaning.API\\Program.cs",
+              "ToolTip": "C:\\Users\\Tamar\\Desktop\\\u05D4\u05DE\u05D7\u05E9\u05D1 \u05D4\u05E7\u05D5\u05D3\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC-\u05D2\u05E8\u05E1\u05D0\u05D5\u05EA\\\u05E9\u05D5\u05E9\u05D9\\TripPlaning.API\\Program.cs",
+              "RelativeToolTip": "TripPlaning.API\\Program.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAAAFQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T21:57:09.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TrailController.cs",
+              "DocumentMoniker": "C:\\Users\\Tamar\\Desktop\\\u05D4\u05DE\u05D7\u05E9\u05D1 \u05D4\u05E7\u05D5\u05D3\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC-\u05D2\u05E8\u05E1\u05D0\u05D5\u05EA\\\u05E9\u05D5\u05E9\u05D9\\TripPlaning.API\\Controllers\\TrailController.cs",
+              "RelativeDocumentMoniker": "TripPlaning.API\\Controllers\\TrailController.cs",
+              "ToolTip": "C:\\Users\\Tamar\\Desktop\\\u05D4\u05DE\u05D7\u05E9\u05D1 \u05D4\u05E7\u05D5\u05D3\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC-\u05D2\u05E8\u05E1\u05D0\u05D5\u05EA\\\u05E9\u05D5\u05E9\u05D9\\TripPlaning.API\\Controllers\\TrailController.cs",
+              "RelativeToolTip": "TripPlaning.API\\Controllers\\TrailController.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAowEEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T10:46:46.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OpeningHoursController.cs",
+              "DocumentMoniker": "C:\\Users\\Tamar\\Desktop\\\u05D4\u05DE\u05D7\u05E9\u05D1 \u05D4\u05E7\u05D5\u05D3\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC-\u05D2\u05E8\u05E1\u05D0\u05D5\u05EA\\\u05E9\u05D5\u05E9\u05D9\\TripPlaning.API\\Controllers\\OpeningHoursController.cs",
+              "RelativeDocumentMoniker": "TripPlaning.API\\Controllers\\OpeningHoursController.cs",
+              "ToolTip": "C:\\Users\\Tamar\\Desktop\\\u05D4\u05DE\u05D7\u05E9\u05D1 \u05D4\u05E7\u05D5\u05D3\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC-\u05D2\u05E8\u05E1\u05D0\u05D5\u05EA\\\u05E9\u05D5\u05E9\u05D9\\TripPlaning.API\\Controllers\\OpeningHoursController.cs",
+              "RelativeToolTip": "TripPlaning.API\\Controllers\\OpeningHoursController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAxwD8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T02:49:40.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserRole.cs",
+              "DocumentMoniker": "C:\\Users\\Tamar\\Desktop\\\u05D4\u05DE\u05D7\u05E9\u05D1 \u05D4\u05E7\u05D5\u05D3\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC-\u05D2\u05E8\u05E1\u05D0\u05D5\u05EA\\\u05E9\u05D5\u05E9\u05D9\\TripPlaning.Core\\Model\\UserRole.cs",
+              "RelativeDocumentMoniker": "TripPlaning.Core\\Model\\UserRole.cs",
+              "ToolTip": "C:\\Users\\Tamar\\Desktop\\\u05D4\u05DE\u05D7\u05E9\u05D1 \u05D4\u05E7\u05D5\u05D3\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC-\u05D2\u05E8\u05E1\u05D0\u05D5\u05EA\\\u05E9\u05D5\u05E9\u05D9\\TripPlaning.Core\\Model\\UserRole.cs",
+              "RelativeToolTip": "TripPlaning.Core\\Model\\UserRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T20:27:26.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AttractionService.cs",
+              "DocumentMoniker": "C:\\Users\\Tamar\\Desktop\\\u05D4\u05DE\u05D7\u05E9\u05D1 \u05D4\u05E7\u05D5\u05D3\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC-\u05D2\u05E8\u05E1\u05D0\u05D5\u05EA\\\u05E9\u05D5\u05E9\u05D9\\TripPlaning.Service\\AttractionService.cs",
+              "RelativeDocumentMoniker": "TripPlaning.Service\\AttractionService.cs",
+              "ToolTip": "C:\\Users\\Tamar\\Desktop\\\u05D4\u05DE\u05D7\u05E9\u05D1 \u05D4\u05E7\u05D5\u05D3\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC-\u05D2\u05E8\u05E1\u05D0\u05D5\u05EA\\\u05E9\u05D5\u05E9\u05D9\\TripPlaning.Service\\AttractionService.cs",
+              "RelativeToolTip": "TripPlaning.Service\\AttractionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T09:18:53.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ITrailService.cs",
+              "DocumentMoniker": "C:\\Users\\Tamar\\Desktop\\\u05D4\u05DE\u05D7\u05E9\u05D1 \u05D4\u05E7\u05D5\u05D3\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC-\u05D2\u05E8\u05E1\u05D0\u05D5\u05EA\\\u05E9\u05D5\u05E9\u05D9\\TripPlaning.Core\\Service\\ITrailService.cs",
+              "RelativeDocumentMoniker": "TripPlaning.Core\\Service\\ITrailService.cs",
+              "ToolTip": "C:\\Users\\Tamar\\Desktop\\\u05D4\u05DE\u05D7\u05E9\u05D1 \u05D4\u05E7\u05D5\u05D3\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC-\u05D2\u05E8\u05E1\u05D0\u05D5\u05EA\\\u05E9\u05D5\u05E9\u05D9\\TripPlaning.Core\\Service\\ITrailService.cs",
+              "RelativeToolTip": "TripPlaning.Core\\Service\\ITrailService.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA1wA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T19:08:14.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TrailService.cs",
+              "DocumentMoniker": "C:\\Users\\Tamar\\Desktop\\\u05D4\u05DE\u05D7\u05E9\u05D1 \u05D4\u05E7\u05D5\u05D3\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC-\u05D2\u05E8\u05E1\u05D0\u05D5\u05EA\\\u05E9\u05D5\u05E9\u05D9\\TripPlaning.Service\\TrailService.cs",
+              "RelativeDocumentMoniker": "TripPlaning.Service\\TrailService.cs",
+              "ToolTip": "C:\\Users\\Tamar\\Desktop\\\u05D4\u05DE\u05D7\u05E9\u05D1 \u05D4\u05E7\u05D5\u05D3\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC-\u05D2\u05E8\u05E1\u05D0\u05D5\u05EA\\\u05E9\u05D5\u05E9\u05D9\\TripPlaning.Service\\TrailService.cs",
+              "RelativeToolTip": "TripPlaning.Service\\TrailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T19:22:09.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "StopoverPlaceService.cs",
+              "DocumentMoniker": "C:\\Users\\Tamar\\Desktop\\\u05D4\u05DE\u05D7\u05E9\u05D1 \u05D4\u05E7\u05D5\u05D3\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC-\u05D2\u05E8\u05E1\u05D0\u05D5\u05EA\\\u05E9\u05D5\u05E9\u05D9\\TripPlaning.Service\\StopoverPlaceService.cs",
+              "RelativeDocumentMoniker": "TripPlaning.Service\\StopoverPlaceService.cs",
+              "ToolTip": "C:\\Users\\Tamar\\Desktop\\\u05D4\u05DE\u05D7\u05E9\u05D1 \u05D4\u05E7\u05D5\u05D3\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC-\u05D2\u05E8\u05E1\u05D0\u05D5\u05EA\\\u05E9\u05D5\u05E9\u05D9\\TripPlaning.Service\\StopoverPlaceService.cs",
+              "RelativeToolTip": "TripPlaning.Service\\StopoverPlaceService.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCIAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T19:22:12.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "OpenHoursService.cs",
+              "DocumentMoniker": "C:\\Users\\Tamar\\Desktop\\\u05D4\u05DE\u05D7\u05E9\u05D1 \u05D4\u05E7\u05D5\u05D3\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC-\u05D2\u05E8\u05E1\u05D0\u05D5\u05EA\\\u05E9\u05D5\u05E9\u05D9\\TripPlaning.Service\\OpenHoursService.cs",
+              "RelativeDocumentMoniker": "TripPlaning.Service\\OpenHoursService.cs",
+              "ToolTip": "C:\\Users\\Tamar\\Desktop\\\u05D4\u05DE\u05D7\u05E9\u05D1 \u05D4\u05E7\u05D5\u05D3\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC-\u05D2\u05E8\u05E1\u05D0\u05D5\u05EA\\\u05E9\u05D5\u05E9\u05D9\\TripPlaning.Service\\OpenHoursService.cs",
+              "RelativeToolTip": "TripPlaning.Service\\OpenHoursService.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAcwCAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T02:45:26.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TrailRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Tamar\\Desktop\\\u05D4\u05DE\u05D7\u05E9\u05D1 \u05D4\u05E7\u05D5\u05D3\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC-\u05D2\u05E8\u05E1\u05D0\u05D5\u05EA\\\u05E9\u05D5\u05E9\u05D9\\TripPlaning.Data\\Repositories\\TrailRepository.cs",
+              "RelativeDocumentMoniker": "TripPlaning.Data\\Repositories\\TrailRepository.cs",
+              "ToolTip": "C:\\Users\\Tamar\\Desktop\\\u05D4\u05DE\u05D7\u05E9\u05D1 \u05D4\u05E7\u05D5\u05D3\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC-\u05D2\u05E8\u05E1\u05D0\u05D5\u05EA\\\u05E9\u05D5\u05E9\u05D9\\TripPlaning.Data\\Repositories\\TrailRepository.cs",
+              "RelativeToolTip": "TripPlaning.Data\\Repositories\\TrailRepository.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAkwCgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T01:37:37.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "StopoverPlaceRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Tamar\\Desktop\\\u05D4\u05DE\u05D7\u05E9\u05D1 \u05D4\u05E7\u05D5\u05D3\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC-\u05D2\u05E8\u05E1\u05D0\u05D5\u05EA\\\u05E9\u05D5\u05E9\u05D9\\TripPlaning.Data\\Repositories\\StopoverPlaceRepository.cs",
+              "RelativeDocumentMoniker": "TripPlaning.Data\\Repositories\\StopoverPlaceRepository.cs",
+              "ToolTip": "C:\\Users\\Tamar\\Desktop\\\u05D4\u05DE\u05D7\u05E9\u05D1 \u05D4\u05E7\u05D5\u05D3\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC-\u05D2\u05E8\u05E1\u05D0\u05D5\u05EA\\\u05E9\u05D5\u05E9\u05D9\\TripPlaning.Data\\Repositories\\StopoverPlaceRepository.cs",
+              "RelativeToolTip": "TripPlaning.Data\\Repositories\\StopoverPlaceRepository.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAuwCgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T01:37:28.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IStopoverPlaceService.cs",
+              "DocumentMoniker": "C:\\Users\\Tamar\\Desktop\\\u05D4\u05DE\u05D7\u05E9\u05D1 \u05D4\u05E7\u05D5\u05D3\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC-\u05D2\u05E8\u05E1\u05D0\u05D5\u05EA\\\u05E9\u05D5\u05E9\u05D9\\TripPlaning.Core\\Service\\IStopoverPlaceService.cs",
+              "RelativeDocumentMoniker": "TripPlaning.Core\\Service\\IStopoverPlaceService.cs",
+              "ToolTip": "C:\\Users\\Tamar\\Desktop\\\u05D4\u05DE\u05D7\u05E9\u05D1 \u05D4\u05E7\u05D5\u05D3\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC-\u05D2\u05E8\u05E1\u05D0\u05D5\u05EA\\\u05E9\u05D5\u05E9\u05D9\\TripPlaning.Core\\Service\\IStopoverPlaceService.cs",
+              "RelativeToolTip": "TripPlaning.Core\\Service\\IStopoverPlaceService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA8AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T19:08:06.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ITrailRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Tamar\\Desktop\\\u05D4\u05DE\u05D7\u05E9\u05D1 \u05D4\u05E7\u05D5\u05D3\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC-\u05D2\u05E8\u05E1\u05D0\u05D5\u05EA\\\u05E9\u05D5\u05E9\u05D9\\TripPlaning.Core\\Repositories\\ITrailRepository.cs",
+              "RelativeDocumentMoniker": "TripPlaning.Core\\Repositories\\ITrailRepository.cs",
+              "ToolTip": "C:\\Users\\Tamar\\Desktop\\\u05D4\u05DE\u05D7\u05E9\u05D1 \u05D4\u05E7\u05D5\u05D3\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC-\u05D2\u05E8\u05E1\u05D0\u05D5\u05EA\\\u05E9\u05D5\u05E9\u05D9\\TripPlaning.Core\\Repositories\\ITrailRepository.cs",
+              "RelativeToolTip": "TripPlaning.Core\\Repositories\\ITrailRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T19:07:57.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AttractionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Tamar\\Desktop\\\u05D4\u05DE\u05D7\u05E9\u05D1 \u05D4\u05E7\u05D5\u05D3\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC-\u05D2\u05E8\u05E1\u05D0\u05D5\u05EA\\\u05E9\u05D5\u05E9\u05D9\\TripPlaning.Data\\Repositories\\AttractionRepository.cs",
+              "RelativeDocumentMoniker": "TripPlaning.Data\\Repositories\\AttractionRepository.cs",
+              "ToolTip": "C:\\Users\\Tamar\\Desktop\\\u05D4\u05DE\u05D7\u05E9\u05D1 \u05D4\u05E7\u05D5\u05D3\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC-\u05D2\u05E8\u05E1\u05D0\u05D5\u05EA\\\u05E9\u05D5\u05E9\u05D9\\TripPlaning.Data\\Repositories\\AttractionRepository.cs",
+              "RelativeToolTip": "TripPlaning.Data\\Repositories\\AttractionRepository.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAgwCcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T21:08:00.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IStopoverPlaceRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Tamar\\Desktop\\\u05D4\u05DE\u05D7\u05E9\u05D1 \u05D4\u05E7\u05D5\u05D3\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC-\u05D2\u05E8\u05E1\u05D0\u05D5\u05EA\\\u05E9\u05D5\u05E9\u05D9\\TripPlaning.Core\\Repositories\\IStopoverPlaceRepository.cs",
+              "RelativeDocumentMoniker": "TripPlaning.Core\\Repositories\\IStopoverPlaceRepository.cs",
+              "ToolTip": "C:\\Users\\Tamar\\Desktop\\\u05D4\u05DE\u05D7\u05E9\u05D1 \u05D4\u05E7\u05D5\u05D3\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC-\u05D2\u05E8\u05E1\u05D0\u05D5\u05EA\\\u05E9\u05D5\u05E9\u05D9\\TripPlaning.Core\\Repositories\\IStopoverPlaceRepository.cs",
+              "RelativeToolTip": "TripPlaning.Core\\Repositories\\IStopoverPlaceRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA8AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T02:41:27.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IAttractionService.cs",
+              "DocumentMoniker": "C:\\Users\\Tamar\\Desktop\\\u05D4\u05DE\u05D7\u05E9\u05D1 \u05D4\u05E7\u05D5\u05D3\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC-\u05D2\u05E8\u05E1\u05D0\u05D5\u05EA\\\u05E9\u05D5\u05E9\u05D9\\TripPlaning.Core\\Service\\IAttractionService.cs",
+              "RelativeDocumentMoniker": "TripPlaning.Core\\Service\\IAttractionService.cs",
+              "ToolTip": "C:\\Users\\Tamar\\Desktop\\\u05D4\u05DE\u05D7\u05E9\u05D1 \u05D4\u05E7\u05D5\u05D3\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC-\u05D2\u05E8\u05E1\u05D0\u05D5\u05EA\\\u05E9\u05D5\u05E9\u05D9\\TripPlaning.Core\\Service\\IAttractionService.cs",
+              "RelativeToolTip": "TripPlaning.Core\\Service\\IAttractionService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA8AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T17:20:38.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IAttractionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Tamar\\Desktop\\\u05D4\u05DE\u05D7\u05E9\u05D1 \u05D4\u05E7\u05D5\u05D3\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC-\u05D2\u05E8\u05E1\u05D0\u05D5\u05EA\\\u05E9\u05D5\u05E9\u05D9\\TripPlaning.Core\\Repositories\\IAttractionRepository.cs",
+              "RelativeDocumentMoniker": "TripPlaning.Core\\Repositories\\IAttractionRepository.cs",
+              "ToolTip": "C:\\Users\\Tamar\\Desktop\\\u05D4\u05DE\u05D7\u05E9\u05D1 \u05D4\u05E7\u05D5\u05D3\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC-\u05D2\u05E8\u05E1\u05D0\u05D5\u05EA\\\u05E9\u05D5\u05E9\u05D9\\TripPlaning.Core\\Repositories\\IAttractionRepository.cs",
+              "RelativeToolTip": "TripPlaning.Core\\Repositories\\IAttractionRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T16:50:04.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "OpeningHours.cs",
+              "DocumentMoniker": "C:\\Users\\Tamar\\Desktop\\\u05D4\u05DE\u05D7\u05E9\u05D1 \u05D4\u05E7\u05D5\u05D3\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC-\u05D2\u05E8\u05E1\u05D0\u05D5\u05EA\\\u05E9\u05D5\u05E9\u05D9\\TripPlaning.Core\\Model\\OpeningHours.cs",
+              "RelativeDocumentMoniker": "TripPlaning.Core\\Model\\OpeningHours.cs",
+              "ToolTip": "C:\\Users\\Tamar\\Desktop\\\u05D4\u05DE\u05D7\u05E9\u05D1 \u05D4\u05E7\u05D5\u05D3\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC-\u05D2\u05E8\u05E1\u05D0\u05D5\u05EA\\\u05E9\u05D5\u05E9\u05D9\\TripPlaning.Core\\Model\\OpeningHours.cs",
+              "RelativeToolTip": "TripPlaning.Core\\Model\\OpeningHours.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAABoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T04:02:42.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Attraction.cs",
+              "DocumentMoniker": "C:\\Users\\Tamar\\Desktop\\\u05D4\u05DE\u05D7\u05E9\u05D1 \u05D4\u05E7\u05D5\u05D3\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC-\u05D2\u05E8\u05E1\u05D0\u05D5\u05EA\\\u05E9\u05D5\u05E9\u05D9\\TripPlaning.Core\\Model\\Attraction.cs",
+              "RelativeDocumentMoniker": "TripPlaning.Core\\Model\\Attraction.cs",
+              "ToolTip": "C:\\Users\\Tamar\\Desktop\\\u05D4\u05DE\u05D7\u05E9\u05D1 \u05D4\u05E7\u05D5\u05D3\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC-\u05D2\u05E8\u05E1\u05D0\u05D5\u05EA\\\u05E9\u05D5\u05E9\u05D9\\TripPlaning.Core\\Model\\Attraction.cs",
+              "RelativeToolTip": "TripPlaning.Core\\Model\\Attraction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T11:10:39.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Trail.cs",
+              "DocumentMoniker": "C:\\Users\\Tamar\\Desktop\\\u05D4\u05DE\u05D7\u05E9\u05D1 \u05D4\u05E7\u05D5\u05D3\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC-\u05D2\u05E8\u05E1\u05D0\u05D5\u05EA\\\u05E9\u05D5\u05E9\u05D9\\TripPlaning.Core\\Model\\Trail.cs",
+              "RelativeDocumentMoniker": "TripPlaning.Core\\Model\\Trail.cs",
+              "ToolTip": "C:\\Users\\Tamar\\Desktop\\\u05D4\u05DE\u05D7\u05E9\u05D1 \u05D4\u05E7\u05D5\u05D3\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC-\u05D2\u05E8\u05E1\u05D0\u05D5\u05EA\\\u05E9\u05D5\u05E9\u05D9\\TripPlaning.Core\\Model\\Trail.cs",
+              "RelativeToolTip": "TripPlaning.Core\\Model\\Trail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T17:50:58.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "StopoverPlace.cs",
+              "DocumentMoniker": "C:\\Users\\Tamar\\Desktop\\\u05D4\u05DE\u05D7\u05E9\u05D1 \u05D4\u05E7\u05D5\u05D3\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC-\u05D2\u05E8\u05E1\u05D0\u05D5\u05EA\\\u05E9\u05D5\u05E9\u05D9\\TripPlaning.Core\\Model\\StopoverPlace.cs",
+              "RelativeDocumentMoniker": "TripPlaning.Core\\Model\\StopoverPlace.cs",
+              "ToolTip": "C:\\Users\\Tamar\\Desktop\\\u05D4\u05DE\u05D7\u05E9\u05D1 \u05D4\u05E7\u05D5\u05D3\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC-\u05D2\u05E8\u05E1\u05D0\u05D5\u05EA\\\u05E9\u05D5\u05E9\u05D9\\TripPlaning.Core\\Model\\StopoverPlace.cs",
+              "RelativeToolTip": "TripPlaning.Core\\Model\\StopoverPlace.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T17:50:55.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Place.cs",
+              "DocumentMoniker": "C:\\Users\\Tamar\\Desktop\\\u05D4\u05DE\u05D7\u05E9\u05D1 \u05D4\u05E7\u05D5\u05D3\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC-\u05D2\u05E8\u05E1\u05D0\u05D5\u05EA\\\u05E9\u05D5\u05E9\u05D9\\TripPlaning.Core\\Model\\Place.cs",
+              "RelativeDocumentMoniker": "TripPlaning.Core\\Model\\Place.cs",
+              "ToolTip": "C:\\Users\\Tamar\\Desktop\\\u05D4\u05DE\u05D7\u05E9\u05D1 \u05D4\u05E7\u05D5\u05D3\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC-\u05D2\u05E8\u05E1\u05D0\u05D5\u05EA\\\u05E9\u05D5\u05E9\u05D9\\TripPlaning.Core\\Model\\Place.cs",
+              "RelativeToolTip": "TripPlaning.Core\\Model\\Place.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAgwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T11:10:16.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "OpenHoursRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Tamar\\Desktop\\\u05D4\u05DE\u05D7\u05E9\u05D1 \u05D4\u05E7\u05D5\u05D3\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC-\u05D2\u05E8\u05E1\u05D0\u05D5\u05EA\\\u05E9\u05D5\u05E9\u05D9\\TripPlaning.Data\\Repositories\\OpenHoursRepository.cs",
+              "RelativeDocumentMoniker": "TripPlaning.Data\\Repositories\\OpenHoursRepository.cs",
+              "ToolTip": "C:\\Users\\Tamar\\Desktop\\\u05D4\u05DE\u05D7\u05E9\u05D1 \u05D4\u05E7\u05D5\u05D3\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC-\u05D2\u05E8\u05E1\u05D0\u05D5\u05EA\\\u05E9\u05D5\u05E9\u05D9\\TripPlaning.Data\\Repositories\\OpenHoursRepository.cs",
+              "RelativeToolTip": "TripPlaning.Data\\Repositories\\OpenHoursRepository.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAUwDsAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T02:35:16.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "IOpenHoursRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Tamar\\Desktop\\\u05D4\u05DE\u05D7\u05E9\u05D1 \u05D4\u05E7\u05D5\u05D3\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC-\u05D2\u05E8\u05E1\u05D0\u05D5\u05EA\\\u05E9\u05D5\u05E9\u05D9\\TripPlaning.Core\\Repositories\\IOpenHoursRepository.cs",
+              "RelativeDocumentMoniker": "TripPlaning.Core\\Repositories\\IOpenHoursRepository.cs",
+              "ToolTip": "C:\\Users\\Tamar\\Desktop\\\u05D4\u05DE\u05D7\u05E9\u05D1 \u05D4\u05E7\u05D5\u05D3\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC-\u05D2\u05E8\u05E1\u05D0\u05D5\u05EA\\\u05E9\u05D5\u05E9\u05D9\\TripPlaning.Core\\Repositories\\IOpenHoursRepository.cs",
+              "RelativeToolTip": "TripPlaning.Core\\Repositories\\IOpenHoursRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABAAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T02:41:23.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IOpenHoursService.cs",
+              "DocumentMoniker": "C:\\Users\\Tamar\\Desktop\\\u05D4\u05DE\u05D7\u05E9\u05D1 \u05D4\u05E7\u05D5\u05D3\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC-\u05D2\u05E8\u05E1\u05D0\u05D5\u05EA\\\u05E9\u05D5\u05E9\u05D9\\TripPlaning.Core\\Service\\IOpenHoursService.cs",
+              "RelativeDocumentMoniker": "TripPlaning.Core\\Service\\IOpenHoursService.cs",
+              "ToolTip": "C:\\Users\\Tamar\\Desktop\\\u05D4\u05DE\u05D7\u05E9\u05D1 \u05D4\u05E7\u05D5\u05D3\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC-\u05D2\u05E8\u05E1\u05D0\u05D5\u05EA\\\u05E9\u05D5\u05E9\u05D9\\TripPlaning.Core\\Service\\IOpenHoursService.cs",
+              "RelativeToolTip": "TripPlaning.Core\\Service\\IOpenHoursService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T02:43:25.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "TripRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Tamar\\Desktop\\\u05D4\u05DE\u05D7\u05E9\u05D1 \u05D4\u05E7\u05D5\u05D3\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC-\u05D2\u05E8\u05E1\u05D0\u05D5\u05EA\\\u05E9\u05D5\u05E9\u05D9\\TripPlaning.Data\\Repositories\\TripRepository.cs",
+              "RelativeDocumentMoniker": "TripPlaning.Data\\Repositories\\TripRepository.cs",
+              "ToolTip": "C:\\Users\\Tamar\\Desktop\\\u05D4\u05DE\u05D7\u05E9\u05D1 \u05D4\u05E7\u05D5\u05D3\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC-\u05D2\u05E8\u05E1\u05D0\u05D5\u05EA\\\u05E9\u05D5\u05E9\u05D9\\TripPlaning.Data\\Repositories\\TripRepository.cs",
+              "RelativeToolTip": "TripPlaning.Data\\Repositories\\TripRepository.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwCkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T16:50:58.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Tamar\\Desktop\\\u05D4\u05DE\u05D7\u05E9\u05D1 \u05D4\u05E7\u05D5\u05D3\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC-\u05D2\u05E8\u05E1\u05D0\u05D5\u05EA\\\u05E9\u05D5\u05E9\u05D9\\TripPlaning.Data\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "TripPlaning.Data\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\Tamar\\Desktop\\\u05D4\u05DE\u05D7\u05E9\u05D1 \u05D4\u05E7\u05D5\u05D3\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC-\u05D2\u05E8\u05E1\u05D0\u05D5\u05EA\\\u05E9\u05D5\u05E9\u05D9\\TripPlaning.Data\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "TripPlaning.Data\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAwwAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T19:22:21.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\Tamar\\Desktop\\\u05D4\u05DE\u05D7\u05E9\u05D1 \u05D4\u05E7\u05D5\u05D3\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC-\u05D2\u05E8\u05E1\u05D0\u05D5\u05EA\\\u05E9\u05D5\u05E9\u05D9\\TripPlaning.Service\\UserService.cs",
+              "RelativeDocumentMoniker": "TripPlaning.Service\\UserService.cs",
+              "ToolTip": "C:\\Users\\Tamar\\Desktop\\\u05D4\u05DE\u05D7\u05E9\u05D1 \u05D4\u05E7\u05D5\u05D3\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC-\u05D2\u05E8\u05E1\u05D0\u05D5\u05EA\\\u05E9\u05D5\u05E9\u05D9\\TripPlaning.Service\\UserService.cs",
+              "RelativeToolTip": "TripPlaning.Service\\UserService.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAADMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T09:18:57.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\Tamar\\Desktop\\\u05D4\u05DE\u05D7\u05E9\u05D1 \u05D4\u05E7\u05D5\u05D3\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC-\u05D2\u05E8\u05E1\u05D0\u05D5\u05EA\\\u05E9\u05D5\u05E9\u05D9\\TripPlaning.Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "TripPlaning.Data\\DataContext.cs",
+              "ToolTip": "C:\\Users\\Tamar\\Desktop\\\u05D4\u05DE\u05D7\u05E9\u05D1 \u05D4\u05E7\u05D5\u05D3\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC-\u05D2\u05E8\u05E1\u05D0\u05D5\u05EA\\\u05E9\u05D5\u05E9\u05D9\\TripPlaning.Data\\DataContext.cs",
+              "RelativeToolTip": "TripPlaning.Data\\DataContext.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAmwBkAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T03:04:26.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Trip.cs",
+              "DocumentMoniker": "C:\\Users\\Tamar\\Desktop\\\u05D4\u05DE\u05D7\u05E9\u05D1 \u05D4\u05E7\u05D5\u05D3\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC-\u05D2\u05E8\u05E1\u05D0\u05D5\u05EA\\\u05E9\u05D5\u05E9\u05D9\\TripPlaning.Core\\Model\\Trip.cs",
+              "RelativeDocumentMoniker": "TripPlaning.Core\\Model\\Trip.cs",
+              "ToolTip": "C:\\Users\\Tamar\\Desktop\\\u05D4\u05DE\u05D7\u05E9\u05D1 \u05D4\u05E7\u05D5\u05D3\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC-\u05D2\u05E8\u05E1\u05D0\u05D5\u05EA\\\u05E9\u05D5\u05E9\u05D9\\TripPlaning.Core\\Model\\Trip.cs",
+              "RelativeToolTip": "TripPlaning.Core\\Model\\Trip.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAQwBcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T11:13:22.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Tamar\\Desktop\\\u05D4\u05DE\u05D7\u05E9\u05D1 \u05D4\u05E7\u05D5\u05D3\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC-\u05D2\u05E8\u05E1\u05D0\u05D5\u05EA\\\u05E9\u05D5\u05E9\u05D9\\TripPlaning.Core\\Model\\User.cs",
+              "RelativeDocumentMoniker": "TripPlaning.Core\\Model\\User.cs",
+              "ToolTip": "C:\\Users\\Tamar\\Desktop\\\u05D4\u05DE\u05D7\u05E9\u05D1 \u05D4\u05E7\u05D5\u05D3\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC-\u05D2\u05E8\u05E1\u05D0\u05D5\u05EA\\\u05E9\u05D5\u05E9\u05D9\\TripPlaning.Core\\Model\\User.cs",
+              "RelativeToolTip": "TripPlaning.Core\\Model\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T20:27:21.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "TripService.cs",
+              "DocumentMoniker": "C:\\Users\\Tamar\\Desktop\\\u05D4\u05DE\u05D7\u05E9\u05D1 \u05D4\u05E7\u05D5\u05D3\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC-\u05D2\u05E8\u05E1\u05D0\u05D5\u05EA\\\u05E9\u05D5\u05E9\u05D9\\TripPlaning.Service\\TripService.cs",
+              "RelativeDocumentMoniker": "TripPlaning.Service\\TripService.cs",
+              "ToolTip": "C:\\Users\\Tamar\\Desktop\\\u05D4\u05DE\u05D7\u05E9\u05D1 \u05D4\u05E7\u05D5\u05D3\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC-\u05D2\u05E8\u05E1\u05D0\u05D5\u05EA\\\u05E9\u05D5\u05E9\u05D9\\TripPlaning.Service\\TripService.cs",
+              "RelativeToolTip": "TripPlaning.Service\\TripService.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAACcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T02:45:59.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ITripService.cs",
+              "DocumentMoniker": "C:\\Users\\Tamar\\Desktop\\\u05D4\u05DE\u05D7\u05E9\u05D1 \u05D4\u05E7\u05D5\u05D3\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC-\u05D2\u05E8\u05E1\u05D0\u05D5\u05EA\\\u05E9\u05D5\u05E9\u05D9\\TripPlaning.Core\\Service\\ITripService.cs",
+              "RelativeDocumentMoniker": "TripPlaning.Core\\Service\\ITripService.cs",
+              "ToolTip": "C:\\Users\\Tamar\\Desktop\\\u05D4\u05DE\u05D7\u05E9\u05D1 \u05D4\u05E7\u05D5\u05D3\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC-\u05D2\u05E8\u05E1\u05D0\u05D5\u05EA\\\u05E9\u05D5\u05E9\u05D9\\TripPlaning.Core\\Service\\ITripService.cs",
+              "RelativeToolTip": "TripPlaning.Core\\Service\\ITripService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T02:42:51.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ITripRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Tamar\\Desktop\\\u05D4\u05DE\u05D7\u05E9\u05D1 \u05D4\u05E7\u05D5\u05D3\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC-\u05D2\u05E8\u05E1\u05D0\u05D5\u05EA\\\u05E9\u05D5\u05E9\u05D9\\TripPlaning.Core\\Repositories\\ITripRepository.cs",
+              "RelativeDocumentMoniker": "TripPlaning.Core\\Repositories\\ITripRepository.cs",
+              "ToolTip": "C:\\Users\\Tamar\\Desktop\\\u05D4\u05DE\u05D7\u05E9\u05D1 \u05D4\u05E7\u05D5\u05D3\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC-\u05D2\u05E8\u05E1\u05D0\u05D5\u05EA\\\u05E9\u05D5\u05E9\u05D9\\TripPlaning.Core\\Repositories\\ITripRepository.cs",
+              "RelativeToolTip": "TripPlaning.Core\\Repositories\\ITripRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T02:41:34.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Tamar\\Desktop\\\u05D4\u05DE\u05D7\u05E9\u05D1 \u05D4\u05E7\u05D5\u05D3\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC-\u05D2\u05E8\u05E1\u05D0\u05D5\u05EA\\\u05E9\u05D5\u05E9\u05D9\\TripPlaning.Core\\Repositories\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "TripPlaning.Core\\Repositories\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\Tamar\\Desktop\\\u05D4\u05DE\u05D7\u05E9\u05D1 \u05D4\u05E7\u05D5\u05D3\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC-\u05D2\u05E8\u05E1\u05D0\u05D5\u05EA\\\u05E9\u05D5\u05E9\u05D9\\TripPlaning.Core\\Repositories\\IUserRepository.cs",
+              "RelativeToolTip": "TripPlaning.Core\\Repositories\\IUserRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T02:41:30.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "20250323013938_addTime2.cs",
+              "DocumentMoniker": "C:\\Users\\\u05DE\u05E9\u05D4 \u05D5\u05D0\u05DC\u05E1\\Downloads\\\u05E4\u05E8\u05D5\u05E7\u05D9\u05D8 \u05DE\u05D7\u05D5\u05D3\u05E9\\TripPlaning.Data\\Migrations\\20250323013938_addTime2.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\\u05DE\u05E9\u05D4 \u05D5\u05D0\u05DC\u05E1\\Downloads\\\u05E4\u05E8\u05D5\u05E7\u05D9\u05D8 \u05DE\u05D7\u05D5\u05D3\u05E9\\TripPlaning.Data\\Migrations\\20250323013938_addTime2.cs",
+              "ToolTip": "C:\\Users\\\u05DE\u05E9\u05D4 \u05D5\u05D0\u05DC\u05E1\\Downloads\\\u05E4\u05E8\u05D5\u05E7\u05D9\u05D8 \u05DE\u05D7\u05D5\u05D3\u05E9\\TripPlaning.Data\\Migrations\\20250323013938_addTime2.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\\u05DE\u05E9\u05D4 \u05D5\u05D0\u05DC\u05E1\\Downloads\\\u05E4\u05E8\u05D5\u05E7\u05D9\u05D8 \u05DE\u05D7\u05D5\u05D3\u05E9\\TripPlaning.Data\\Migrations\\20250323013938_addTime2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T01:39:38.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "20250323012552_addTime.cs",
+              "DocumentMoniker": "C:\\Users\\\u05DE\u05E9\u05D4 \u05D5\u05D0\u05DC\u05E1\\Downloads\\\u05E4\u05E8\u05D5\u05E7\u05D9\u05D8 \u05DE\u05D7\u05D5\u05D3\u05E9\\TripPlaning.Data\\Migrations\\20250323012552_addTime.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\\u05DE\u05E9\u05D4 \u05D5\u05D0\u05DC\u05E1\\Downloads\\\u05E4\u05E8\u05D5\u05E7\u05D9\u05D8 \u05DE\u05D7\u05D5\u05D3\u05E9\\TripPlaning.Data\\Migrations\\20250323012552_addTime.cs",
+              "ToolTip": "C:\\Users\\\u05DE\u05E9\u05D4 \u05D5\u05D0\u05DC\u05E1\\Downloads\\\u05E4\u05E8\u05D5\u05E7\u05D9\u05D8 \u05DE\u05D7\u05D5\u05D3\u05E9\\TripPlaning.Data\\Migrations\\20250323012552_addTime.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\\u05DE\u05E9\u05D4 \u05D5\u05D0\u05DC\u05E1\\Downloads\\\u05E4\u05E8\u05D5\u05E7\u05D9\u05D8 \u05DE\u05D7\u05D5\u05D3\u05E9\\TripPlaning.Data\\Migrations\\20250323012552_addTime.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T01:25:52.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "20250320110811_createDB.cs",
+              "DocumentMoniker": "C:\\Users\\\u05DE\u05E9\u05D4 \u05D5\u05D0\u05DC\u05E1\\Downloads\\\u05E4\u05E8\u05D5\u05E7\u05D9\u05D8 \u05DE\u05D7\u05D5\u05D3\u05E9\\TripPlaning.Data\\Migrations\\20250320110811_createDB.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\\u05DE\u05E9\u05D4 \u05D5\u05D0\u05DC\u05E1\\Downloads\\\u05E4\u05E8\u05D5\u05E7\u05D9\u05D8 \u05DE\u05D7\u05D5\u05D3\u05E9\\TripPlaning.Data\\Migrations\\20250320110811_createDB.cs",
+              "ToolTip": "C:\\Users\\\u05DE\u05E9\u05D4 \u05D5\u05D0\u05DC\u05E1\\Downloads\\\u05E4\u05E8\u05D5\u05E7\u05D9\u05D8 \u05DE\u05D7\u05D5\u05D3\u05E9\\TripPlaning.Data\\Migrations\\20250320110811_createDB.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\\u05DE\u05E9\u05D4 \u05D5\u05D0\u05DC\u05E1\\Downloads\\\u05E4\u05E8\u05D5\u05E7\u05D9\u05D8 \u05DE\u05D7\u05D5\u05D3\u05E9\\TripPlaning.Data\\Migrations\\20250320110811_createDB.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T11:08:11.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "20250320110650_updateDB.cs",
+              "DocumentMoniker": "C:\\Users\\\u05DE\u05E9\u05D4 \u05D5\u05D0\u05DC\u05E1\\Downloads\\\u05E4\u05E8\u05D5\u05E7\u05D9\u05D8 \u05DE\u05D7\u05D5\u05D3\u05E9\\TripPlaning.Data\\Migrations\\20250320110650_updateDB.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\\u05DE\u05E9\u05D4 \u05D5\u05D0\u05DC\u05E1\\Downloads\\\u05E4\u05E8\u05D5\u05E7\u05D9\u05D8 \u05DE\u05D7\u05D5\u05D3\u05E9\\TripPlaning.Data\\Migrations\\20250320110650_updateDB.cs",
+              "ToolTip": "C:\\Users\\\u05DE\u05E9\u05D4 \u05D5\u05D0\u05DC\u05E1\\Downloads\\\u05E4\u05E8\u05D5\u05E7\u05D9\u05D8 \u05DE\u05D7\u05D5\u05D3\u05E9\\TripPlaning.Data\\Migrations\\20250320110650_updateDB.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\\u05DE\u05E9\u05D4 \u05D5\u05D0\u05DC\u05E1\\Downloads\\\u05E4\u05E8\u05D5\u05E7\u05D9\u05D8 \u05DE\u05D7\u05D5\u05D3\u05E9\\TripPlaning.Data\\Migrations\\20250320110650_updateDB.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T11:06:50.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Tamar\\Desktop\\\u05D4\u05DE\u05D7\u05E9\u05D1 \u05D4\u05E7\u05D5\u05D3\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC-\u05D2\u05E8\u05E1\u05D0\u05D5\u05EA\\\u05E9\u05D5\u05E9\u05D9\\TripPlaning.API\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "TripPlaning.API\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Tamar\\Desktop\\\u05D4\u05DE\u05D7\u05E9\u05D1 \u05D4\u05E7\u05D5\u05D3\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC-\u05D2\u05E8\u05E1\u05D0\u05D5\u05EA\\\u05E9\u05D5\u05E9\u05D9\\TripPlaning.API\\appsettings.Development.json",
+              "RelativeToolTip": "TripPlaning.API\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-20T10:47:23.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Tamar\\Desktop\\\u05D4\u05DE\u05D7\u05E9\u05D1 \u05D4\u05E7\u05D5\u05D3\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC-\u05D2\u05E8\u05E1\u05D0\u05D5\u05EA\\\u05E9\u05D5\u05E9\u05D9\\TripPlaning.API\\appsettings.json",
+              "RelativeDocumentMoniker": "TripPlaning.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\Tamar\\Desktop\\\u05D4\u05DE\u05D7\u05E9\u05D1 \u05D4\u05E7\u05D5\u05D3\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC-\u05D2\u05E8\u05E1\u05D0\u05D5\u05EA\\\u05E9\u05D5\u05E9\u05D9\\TripPlaning.API\\appsettings.json",
+              "RelativeToolTip": "TripPlaning.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-20T10:47:18.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "TripPlaning.Core.csproj",
+              "DocumentMoniker": "C:\\Users\\Tamar\\Desktop\\\u05D4\u05DE\u05D7\u05E9\u05D1 \u05D4\u05E7\u05D5\u05D3\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC-\u05D2\u05E8\u05E1\u05D0\u05D5\u05EA\\\u05E9\u05D5\u05E9\u05D9\\TripPlaning.Core\\TripPlaning.Core.csproj",
+              "RelativeDocumentMoniker": "TripPlaning.Core\\TripPlaning.Core.csproj",
+              "ToolTip": "C:\\Users\\Tamar\\Desktop\\\u05D4\u05DE\u05D7\u05E9\u05D1 \u05D4\u05E7\u05D5\u05D3\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC-\u05D2\u05E8\u05E1\u05D0\u05D5\u05EA\\\u05E9\u05D5\u05E9\u05D9\\TripPlaning.Core\\TripPlaning.Core.csproj",
+              "RelativeToolTip": "TripPlaning.Core\\TripPlaning.Core.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-16T14:51:47.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "TripPlaning.API.csproj",
+              "DocumentMoniker": "C:\\Users\\Tamar\\Desktop\\\u05D4\u05DE\u05D7\u05E9\u05D1 \u05D4\u05E7\u05D5\u05D3\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC-\u05D2\u05E8\u05E1\u05D0\u05D5\u05EA\\\u05E9\u05D5\u05E9\u05D9\\TripPlaning.API\\TripPlaning.API.csproj",
+              "RelativeDocumentMoniker": "TripPlaning.API\\TripPlaning.API.csproj",
+              "ToolTip": "C:\\Users\\Tamar\\Desktop\\\u05D4\u05DE\u05D7\u05E9\u05D1 \u05D4\u05E7\u05D5\u05D3\u05DD\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D8\u05D9\u05D5\u05DC-\u05D2\u05E8\u05E1\u05D0\u05D5\u05EA\\\u05E9\u05D5\u05E9\u05D9\\TripPlaning.API\\TripPlaning.API.csproj",
+              "RelativeToolTip": "TripPlaning.API\\TripPlaning.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-16T14:54:09.905Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

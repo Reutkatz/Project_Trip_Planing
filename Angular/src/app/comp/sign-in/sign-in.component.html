@@ -1,0 +1,66 @@
+<div class="container">
+    <div class="txt">
+        <div class="text-container">
+            <span *ngIf="!this.u.isConnected" class="text">הרשמה</span>
+            <span *ngIf="this.u.isConnected" class="text">עריכת פרטי משתמש</span>
+        </div>
+        <br>
+        <form [formGroup]="myForm">
+            <mat-form-field>
+                <mat-label>שם*</mat-label>
+                <input matInput formControlName="Name" [(ngModel)]="this.u.currentUser.name">
+            </mat-form-field>
+            <div *ngIf="myFN.invalid && (myFN.touched || myFN.dirty)">
+                <p class="message" *ngIf="myFN.hasError('req')">שדה חובה</p>
+                <p class="message" *ngIf="myFN.hasError('min')">הקלטה קצרה מדי</p>
+                <p class="message" *ngIf="myFN.hasError('notvalid')">השם יכול להכיל רק אותיות</p>
+            </div>
+            <br>
+            <mat-form-field>
+                <mat-label>כתובת אימייל*</mat-label>
+                <input matInput formControlName="email" [(ngModel)]="this.u.currentUser.email">
+            </mat-form-field>
+            <div *ngIf="myMail.invalid && (myMail.touched || myMail.dirty)">
+                <p class="message" *ngIf="myMail.hasError('req')">שדה חובה</p>
+                <p class="message" *ngIf="myMail.hasError('notvalid')">כתובת אימייל שגויה</p>
+            </div>
+            <br>
+            <mat-form-field>
+                <mat-label>סיסמה*</mat-label>
+                <input matInput type="password" formControlName="pass" [(ngModel)]="this.u.currentUser.password">
+            </mat-form-field>
+            <div *ngIf="myPass.invalid && (myPass.touched || myPass.dirty)">
+                <p class="message" *ngIf="myPass.hasError('req')">שדה חובה</p>
+                <p class="message" *ngIf="myPass.hasError('min')">הקלטה קצרה מדי</p>
+                <p class="message" *ngIf="myPass.hasError('notvalid')">הסיסמה צריכה לכלול אותיות רישיות, קטנות ותו מיוחד</p>
+            </div>
+            <br>
+            <mat-form-field>
+                <mat-label>אימות סיסמה*</mat-label>
+                <input matInput type="password" formControlName="passValidation" [(ngModel)]="passValidation">
+            </mat-form-field>
+            <div *ngIf="myPassV.invalid && (myPassV.touched || myPassV.dirty)">
+                <p class="message" *ngIf="myPassV.hasError('req')">שדה חובה</p>
+                <p class="message" *ngIf="myPassV.hasError('notvalid')">אימות סיסמה נכשל</p>
+            </div>
+            <br>
+            <mat-form-field *ngIf="!this.u.isConnected">
+                <mat-label>בחר תפקיד*</mat-label>
+                <mat-select formControlName="role" [(ngModel)]="this.u.currentUser.role">
+                  <mat-option [value]="1">לקוח</mat-option>
+                  <mat-option [value]="0">בעל עסק</mat-option>
+                </mat-select>
+              </mat-form-field>
+             <br>
+            <button mat-fab extended color="warn" *ngIf="!this.u.isConnected" [disabled]="myForm.invalid" (click)="send()">
+                הרשמה
+            </button>
+            <button class="btn" mat-fab extended color="warn" *ngIf="this.u.isConnected" [disabled]="myForm.invalid" (click)="updateUser()">
+                שמירת שינויים
+            </button>
+        </form>
+        <button class="btn2" mat-fab extended color="warn" *ngIf="this.u.isConnected" (click)="deleteUser()">
+            הסרה מהאתר
+        </button>
+    </div>
+</div>

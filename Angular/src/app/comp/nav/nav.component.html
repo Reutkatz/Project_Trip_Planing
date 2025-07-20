@@ -1,0 +1,35 @@
+<div class="container" >
+    <ul class="nav nav-tabs" role="tablist">
+        <li class="nav-item">
+            <a *ngIf="!this.u.isConnected" routerLink="SignIn" class="nav-link active"
+                data-bs-toggle="tab">הרשמה</a>
+        </li>
+        <li class="nav-item">
+            <a routerLink="Home" class="nav-link" data-bs-toggle="tab">דף הבית</a>
+        </li>
+        <li class="nav-item">
+            <a  routerLink="form" class="nav-link" data-bs-toggle="tab">בואו להכין את הטיול שלכם</a>
+        </li>
+        <li class="nav-item">
+            <a *ngIf="this.u.isConnected" routerLink="categories" class="nav-link" data-bs-toggle="tab">המקומות שלנו</a>
+        </li>
+        <li class="nav-item">
+            <a *ngIf="this.u.isConnected" routerLink="addPlace" class="nav-link" data-bs-toggle="tab">הוספת מקום</a>
+        </li>
+        <li class="nav-item">
+            <a *ngIf="!this.u.isConnected" routerLink="Login" class="nav-link" data-bs-toggle="tab">התחברות</a>
+        </li>
+
+        <li class="nav-item">
+            <a *ngIf="this.u.isConnected" class="nav-link" data-bs-toggle="tab"
+                [matMenuTriggerFor]="menu">{{this.u.currentUser.name}}</a>
+            <mat-menu #menu="matMenu">
+                <button mat-menu-item (click)="details()">עריכת פרטי משתמש</button>
+                <button mat-menu-item (click)="disconnect()">התנתקות</button>
+            </mat-menu>
+            <mat-menu #menuM="matMenu">
+                <button mat-menu-item (click)="disconnect()">התנתקות</button>
+            </mat-menu>
+        </li>
+    </ul>
+</div>

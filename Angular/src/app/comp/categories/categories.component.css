@@ -1,0 +1,96 @@
+.container {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .buttons {
+    margin-bottom: 20px;
+  }
+  
+  button {
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    margin: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+  }
+  
+  button:hover {
+    background-color: #45a049;
+  }
+  
+  .places-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+  }
+  
+  .place-card {
+    background: #f9f9f9;
+    padding: 15px;
+    border-radius: 10px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+    width: 300px;
+    text-align: left;
+  }
+  
+  .place-card h3 {
+    margin-top: 0;
+    color: #333;
+  }
+  
+  .place-card a {
+    display: block;
+    margin-top: 10px;
+    color: #007BFF;
+    text-decoration: none;
+  }
+  
+  .place-card a:hover {
+    text-decoration: underline;
+  }
+  .container {
+    margin-top: 30px;
+    align-items: center;
+    height: 100%;
+    width: 100%;
+    background-color: rgba(232, 229, 229, 0.659);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .buttons button {
+    margin: 10px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  .places-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+  }
+  
+  .place-card {
+    background: white;
+    padding: 15px;
+    border-radius: 8px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    width: 300px;
+  }
+  
+  .rating {
+    margin-top: 10px;
+  }
+  .rating select {
+    padding: 5px;
+  }
+  

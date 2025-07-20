@@ -1,0 +1,58 @@
+<div class="container">
+  <div class="txt">
+    <div class="text-container">
+      <span class="text">הוספת טיול חדש</span>
+    </div>
+    <br>
+    <form [formGroup]="tripForm">
+      <mat-form-field class="inp">
+        <mat-label>שם הטיול*</mat-label>
+        <input matInput formControlName="title">
+      </mat-form-field>
+      <mat-form-field class="inp">
+        <mat-label>תאריך*</mat-label>
+        <input matInput type="date" formControlName="date">
+      </mat-form-field>
+      <mat-form-field class="inp">
+        <mat-label>תקציב*</mat-label>
+        <input matInput type="number" formControlName="budget">
+      </mat-form-field>
+      <mat-form-field class="inp">
+        <mat-label>אזור*</mat-label>
+        <mat-select formControlName="region">
+          <mat-option [value]="0">גליל עליון ורמת הגולן</mat-option>
+          <mat-option [value]="1">גליל תחתון ועמק יזרעאל</mat-option>
+          <mat-option [value]="2">חיפה והכרמל</mat-option>
+          <mat-option [value]="3">השרון</mat-option>
+          <mat-option [value]="4">גוש דן</mat-option>
+          <mat-option [value]="5">השפלה וירושלים</mat-option>
+          <mat-option [value]="6">באר שבע והנגב</mat-option>
+          <mat-option [value]="7">אילת</mat-option>
+        </mat-select>
+      </mat-form-field>
+      <mat-form-field class="inp">
+        <mat-label>שעת התחלה*</mat-label>
+        <input matInput type="time" formControlName="startTime">
+      </mat-form-field>
+      <mat-form-field class="inp">
+        <mat-label>שעת סיום*</mat-label>
+        <input matInput type="time" formControlName="endTime">
+      </mat-form-field>
+      <mat-form-field class="inp">
+        <mat-label>מספר אטרקציות*</mat-label>
+        <input matInput type="number" formControlName="numOfAttractions">
+      </mat-form-field>
+      <mat-form-field class="inp">
+        <mat-label>מספר מסלולים*</mat-label>
+        <input matInput type="number" formControlName="numOfTrails">
+      </mat-form-field>
+      <mat-form-field class="inp">
+        <mat-label>מספר תחנות עצירה*</mat-label>
+        <input matInput type="number" formControlName="numOfStoppingPlaces">
+      </mat-form-field>
+      <button mat-fab extended color="warn" [disabled]="tripForm.invalid" (click)="onSubmit()">
+        הוספת טיול
+      </button>
+    </form>
+  </div>
+</div>

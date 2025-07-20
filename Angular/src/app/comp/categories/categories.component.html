@@ -1,0 +1,23 @@
+<div class="container">
+  <div class="buttons">
+    <button (click)="fetchPlaces('Attraction')">אטרקציות</button>
+    <button (click)="fetchPlaces('Trail')">מסלולים</button>
+    <button (click)="fetchPlaces('StopoverPlace')">מקומות עצירה</button>
+  </div>
+  <div class="places-list" *ngIf="places.length">
+    <div class="place-card" *ngFor="let place of places">
+      <h3>{{ place.name }}</h3>
+      <p><strong>כתובת:</strong> {{ place.address }}</p>
+      <p><strong>דירוג:</strong> {{ place.rating }} </p>
+      <p><strong>מספר מדרגים:</strong>{{ place.reviewsCount }}</p>
+      <p><strong>מחיר:</strong> {{ place.price }}</p>
+      <a [href]="place.website" target="_blank">לאתר</a>
+      <div class="rating">
+        <label for="rating">דרג:</label>
+        <select #ratingSelect (change)="ratePlace(type,place.id, ratingSelect.value)">
+          <option *ngFor="let r of [1,2,3,4,5]" [value]="r">{{r}}</option>
+        </select>
+      </div>
+    </div>
+  </div>
+</div>

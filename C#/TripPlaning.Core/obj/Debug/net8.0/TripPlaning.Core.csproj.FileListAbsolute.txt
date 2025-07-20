@@ -1,0 +1,120 @@
+C:\Users\fwall\OneDrive\Documents\tamarstudy\c#\project\TripPlaning\TripPlaning.Core\bin\Debug\net8.0\TripPlaning.Core.deps.json
+C:\Users\fwall\OneDrive\Documents\tamarstudy\c#\project\TripPlaning\TripPlaning.Core\bin\Debug\net8.0\TripPlaning.Core.dll
+C:\Users\fwall\OneDrive\Documents\tamarstudy\c#\project\TripPlaning\TripPlaning.Core\bin\Debug\net8.0\TripPlaning.Core.pdb
+C:\Users\fwall\OneDrive\Documents\tamarstudy\c#\project\TripPlaning\TripPlaning.Core\obj\Debug\net8.0\TripPlaning.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fwall\OneDrive\Documents\tamarstudy\c#\project\TripPlaning\TripPlaning.Core\obj\Debug\net8.0\TripPlaning.Core.AssemblyInfoInputs.cache
+C:\Users\fwall\OneDrive\Documents\tamarstudy\c#\project\TripPlaning\TripPlaning.Core\obj\Debug\net8.0\TripPlaning.Core.AssemblyInfo.cs
+C:\Users\fwall\OneDrive\Documents\tamarstudy\c#\project\TripPlaning\TripPlaning.Core\obj\Debug\net8.0\TripPlaning.Core.csproj.CoreCompileInputs.cache
+C:\Users\fwall\OneDrive\Documents\tamarstudy\c#\project\TripPlaning\TripPlaning.Core\obj\Debug\net8.0\TripPlaning.Core.dll
+C:\Users\fwall\OneDrive\Documents\tamarstudy\c#\project\TripPlaning\TripPlaning.Core\obj\Debug\net8.0\refint\TripPlaning.Core.dll
+C:\Users\fwall\OneDrive\Documents\tamarstudy\c#\project\TripPlaning\TripPlaning.Core\obj\Debug\net8.0\TripPlaning.Core.pdb
+C:\Users\fwall\OneDrive\Documents\tamarstudy\c#\project\TripPlaning\TripPlaning.Core\obj\Debug\net8.0\ref\TripPlaning.Core.dll
+C:\Users\fwall\OneDrive\Documents\tamarstudy\c#\project\TripPlaning\TripPlaning.Core\obj\Debug\net8.0\TripPlaning.Core.csproj.AssemblyReference.cache
+C:\Users\fwall\OneDrive\Documents\tamarstudy\c#\project\‏‏TripPlaning-26-2\TripPlaning.Core\bin\Debug\net8.0\TripPlaning.Core.deps.json
+C:\Users\fwall\OneDrive\Documents\tamarstudy\c#\project\‏‏TripPlaning-26-2\TripPlaning.Core\bin\Debug\net8.0\TripPlaning.Core.dll
+C:\Users\fwall\OneDrive\Documents\tamarstudy\c#\project\‏‏TripPlaning-26-2\TripPlaning.Core\bin\Debug\net8.0\TripPlaning.Core.pdb
+C:\Users\fwall\OneDrive\Documents\tamarstudy\c#\project\‏‏TripPlaning-26-2\TripPlaning.Core\obj\Debug\net8.0\TripPlaning.Core.csproj.AssemblyReference.cache
+C:\Users\fwall\OneDrive\Documents\tamarstudy\c#\project\‏‏TripPlaning-26-2\TripPlaning.Core\obj\Debug\net8.0\TripPlaning.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fwall\OneDrive\Documents\tamarstudy\c#\project\‏‏TripPlaning-26-2\TripPlaning.Core\obj\Debug\net8.0\TripPlaning.Core.AssemblyInfoInputs.cache
+C:\Users\fwall\OneDrive\Documents\tamarstudy\c#\project\‏‏TripPlaning-26-2\TripPlaning.Core\obj\Debug\net8.0\TripPlaning.Core.AssemblyInfo.cs
+C:\Users\fwall\OneDrive\Documents\tamarstudy\c#\project\‏‏TripPlaning-26-2\TripPlaning.Core\obj\Debug\net8.0\TripPlaning.Core.csproj.CoreCompileInputs.cache
+C:\Users\fwall\OneDrive\Documents\tamarstudy\c#\project\‏‏TripPlaning-26-2\TripPlaning.Core\obj\Debug\net8.0\TripPlaning.Core.dll
+C:\Users\fwall\OneDrive\Documents\tamarstudy\c#\project\‏‏TripPlaning-26-2\TripPlaning.Core\obj\Debug\net8.0\refint\TripPlaning.Core.dll
+C:\Users\fwall\OneDrive\Documents\tamarstudy\c#\project\‏‏TripPlaning-26-2\TripPlaning.Core\obj\Debug\net8.0\TripPlaning.Core.pdb
+C:\Users\fwall\OneDrive\Documents\tamarstudy\c#\project\‏‏TripPlaning-26-2\TripPlaning.Core\obj\Debug\net8.0\ref\TripPlaning.Core.dll
+C:\Users\ADMIN\Documents\‏‏TripPlaning-26-2\TripPlaning.Core\bin\Debug\net8.0\TripPlaning.Core.deps.json
+C:\Users\ADMIN\Documents\‏‏TripPlaning-26-2\TripPlaning.Core\bin\Debug\net8.0\TripPlaning.Core.dll
+C:\Users\ADMIN\Documents\‏‏TripPlaning-26-2\TripPlaning.Core\bin\Debug\net8.0\TripPlaning.Core.pdb
+C:\Users\ADMIN\Documents\‏‏TripPlaning-26-2\TripPlaning.Core\obj\Debug\net8.0\TripPlaning.Core.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Documents\‏‏TripPlaning-26-2\TripPlaning.Core\obj\Debug\net8.0\TripPlaning.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Documents\‏‏TripPlaning-26-2\TripPlaning.Core\obj\Debug\net8.0\TripPlaning.Core.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Documents\‏‏TripPlaning-26-2\TripPlaning.Core\obj\Debug\net8.0\TripPlaning.Core.AssemblyInfo.cs
+C:\Users\ADMIN\Documents\‏‏TripPlaning-26-2\TripPlaning.Core\obj\Debug\net8.0\TripPlaning.Core.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\‏‏TripPlaning-26-2\TripPlaning.Core\obj\Debug\net8.0\TripPlaning.Core.dll
+C:\Users\ADMIN\Documents\‏‏TripPlaning-26-2\TripPlaning.Core\obj\Debug\net8.0\refint\TripPlaning.Core.dll
+C:\Users\ADMIN\Documents\‏‏TripPlaning-26-2\TripPlaning.Core\obj\Debug\net8.0\TripPlaning.Core.pdb
+C:\Users\ADMIN\Documents\‏‏TripPlaning-26-2\TripPlaning.Core\obj\Debug\net8.0\ref\TripPlaning.Core.dll
+C:\Users\ADMIN\Documents\‏‏‏‏TripPlaning-26-2 - עותק\TripPlaning.Core\obj\Debug\net8.0\TripPlaning.Core.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Documents\‏‏‏‏TripPlaning-26-2 - עותק\TripPlaning.Core\obj\Debug\net8.0\TripPlaning.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Documents\‏‏‏‏TripPlaning-26-2 - עותק\TripPlaning.Core\obj\Debug\net8.0\TripPlaning.Core.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Documents\‏‏‏‏TripPlaning-26-2 - עותק\TripPlaning.Core\obj\Debug\net8.0\TripPlaning.Core.AssemblyInfo.cs
+C:\Users\ADMIN\Documents\‏‏‏‏TripPlaning-26-2 - עותק\TripPlaning.Core\obj\Debug\net8.0\TripPlaning.Core.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\‏‏‏‏TripPlaning-26-2 - עותק\TripPlaning.Core\obj\Debug\net8.0\TripPlaning.Core.dll
+C:\Users\ADMIN\Documents\‏‏‏‏TripPlaning-26-2 - עותק\TripPlaning.Core\obj\Debug\net8.0\refint\TripPlaning.Core.dll
+C:\Users\ADMIN\Documents\‏‏‏‏TripPlaning-26-2 - עותק\TripPlaning.Core\obj\Debug\net8.0\TripPlaning.Core.pdb
+C:\Users\ADMIN\Documents\‏‏‏‏TripPlaning-26-2 - עותק\TripPlaning.Core\bin\Debug\net8.0\TripPlaning.Core.deps.json
+C:\Users\ADMIN\Documents\‏‏‏‏TripPlaning-26-2 - עותק\TripPlaning.Core\bin\Debug\net8.0\TripPlaning.Core.dll
+C:\Users\ADMIN\Documents\‏‏‏‏TripPlaning-26-2 - עותק\TripPlaning.Core\bin\Debug\net8.0\TripPlaning.Core.pdb
+C:\Users\ADMIN\Documents\‏‏‏‏TripPlaning-26-2 - עותק\TripPlaning.Core\obj\Debug\net8.0\ref\TripPlaning.Core.dll
+C:\Users\משה ואלס\Downloads\פרוקיט מחודש-20250312T070645Z-001\פרוקיט מחודש\TripPlaning.Core\bin\Debug\net8.0\TripPlaning.Core.deps.json
+C:\Users\משה ואלס\Downloads\פרוקיט מחודש-20250312T070645Z-001\פרוקיט מחודש\TripPlaning.Core\bin\Debug\net8.0\TripPlaning.Core.dll
+C:\Users\משה ואלס\Downloads\פרוקיט מחודש-20250312T070645Z-001\פרוקיט מחודש\TripPlaning.Core\bin\Debug\net8.0\TripPlaning.Core.pdb
+C:\Users\משה ואלס\Downloads\פרוקיט מחודש-20250312T070645Z-001\פרוקיט מחודש\TripPlaning.Core\obj\Debug\net8.0\TripPlaning.Core.csproj.AssemblyReference.cache
+C:\Users\משה ואלס\Downloads\פרוקיט מחודש-20250312T070645Z-001\פרוקיט מחודש\TripPlaning.Core\obj\Debug\net8.0\TripPlaning.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\משה ואלס\Downloads\פרוקיט מחודש-20250312T070645Z-001\פרוקיט מחודש\TripPlaning.Core\obj\Debug\net8.0\TripPlaning.Core.AssemblyInfoInputs.cache
+C:\Users\משה ואלס\Downloads\פרוקיט מחודש-20250312T070645Z-001\פרוקיט מחודש\TripPlaning.Core\obj\Debug\net8.0\TripPlaning.Core.AssemblyInfo.cs
+C:\Users\משה ואלס\Downloads\פרוקיט מחודש-20250312T070645Z-001\פרוקיט מחודש\TripPlaning.Core\obj\Debug\net8.0\TripPlaning.Core.csproj.CoreCompileInputs.cache
+C:\Users\משה ואלס\Downloads\פרוקיט מחודש-20250312T070645Z-001\פרוקיט מחודש\TripPlaning.Core\obj\Debug\net8.0\TripPlaning.Core.dll
+C:\Users\משה ואלס\Downloads\פרוקיט מחודש-20250312T070645Z-001\פרוקיט מחודש\TripPlaning.Core\obj\Debug\net8.0\refint\TripPlaning.Core.dll
+C:\Users\משה ואלס\Downloads\פרוקיט מחודש-20250312T070645Z-001\פרוקיט מחודש\TripPlaning.Core\obj\Debug\net8.0\TripPlaning.Core.pdb
+C:\Users\משה ואלס\Downloads\פרוקיט מחודש-20250312T070645Z-001\פרוקיט מחודש\TripPlaning.Core\obj\Debug\net8.0\ref\TripPlaning.Core.dll
+C:\Users\משה ואלס\Downloads\16-3-2025\פרוקיט מחודש\TripPlaning.Core\bin\Debug\net8.0\TripPlaning.Core.deps.json
+C:\Users\משה ואלס\Downloads\16-3-2025\פרוקיט מחודש\TripPlaning.Core\bin\Debug\net8.0\TripPlaning.Core.dll
+C:\Users\משה ואלס\Downloads\16-3-2025\פרוקיט מחודש\TripPlaning.Core\bin\Debug\net8.0\TripPlaning.Core.pdb
+C:\Users\משה ואלס\Downloads\16-3-2025\פרוקיט מחודש\TripPlaning.Core\obj\Debug\net8.0\TripPlaning.Core.csproj.AssemblyReference.cache
+C:\Users\משה ואלס\Downloads\16-3-2025\פרוקיט מחודש\TripPlaning.Core\obj\Debug\net8.0\TripPlaning.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\משה ואלס\Downloads\16-3-2025\פרוקיט מחודש\TripPlaning.Core\obj\Debug\net8.0\TripPlaning.Core.AssemblyInfoInputs.cache
+C:\Users\משה ואלס\Downloads\16-3-2025\פרוקיט מחודש\TripPlaning.Core\obj\Debug\net8.0\TripPlaning.Core.AssemblyInfo.cs
+C:\Users\משה ואלס\Downloads\16-3-2025\פרוקיט מחודש\TripPlaning.Core\obj\Debug\net8.0\TripPlaning.Core.csproj.CoreCompileInputs.cache
+C:\Users\משה ואלס\Downloads\16-3-2025\פרוקיט מחודש\TripPlaning.Core\obj\Debug\net8.0\TripPlaning.Core.dll
+C:\Users\משה ואלס\Downloads\16-3-2025\פרוקיט מחודש\TripPlaning.Core\obj\Debug\net8.0\refint\TripPlaning.Core.dll
+C:\Users\משה ואלס\Downloads\16-3-2025\פרוקיט מחודש\TripPlaning.Core\obj\Debug\net8.0\TripPlaning.Core.pdb
+C:\Users\משה ואלס\Downloads\16-3-2025\פרוקיט מחודש\TripPlaning.Core\obj\Debug\net8.0\ref\TripPlaning.Core.dll
+C:\Users\ADMIN\Downloads\16-3-2025\פרוקיט מחודש\TripPlaning.Core\bin\Debug\net8.0\TripPlaning.Core.deps.json
+C:\Users\ADMIN\Downloads\16-3-2025\פרוקיט מחודש\TripPlaning.Core\bin\Debug\net8.0\TripPlaning.Core.dll
+C:\Users\ADMIN\Downloads\16-3-2025\פרוקיט מחודש\TripPlaning.Core\bin\Debug\net8.0\TripPlaning.Core.pdb
+C:\Users\ADMIN\Downloads\16-3-2025\פרוקיט מחודש\TripPlaning.Core\obj\Debug\net8.0\TripPlaning.Core.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Downloads\16-3-2025\פרוקיט מחודש\TripPlaning.Core\obj\Debug\net8.0\TripPlaning.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Downloads\16-3-2025\פרוקיט מחודש\TripPlaning.Core\obj\Debug\net8.0\TripPlaning.Core.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Downloads\16-3-2025\פרוקיט מחודש\TripPlaning.Core\obj\Debug\net8.0\TripPlaning.Core.AssemblyInfo.cs
+C:\Users\ADMIN\Downloads\16-3-2025\פרוקיט מחודש\TripPlaning.Core\obj\Debug\net8.0\TripPlaning.Core.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\16-3-2025\פרוקיט מחודש\TripPlaning.Core\obj\Debug\net8.0\TripPlaning.Core.dll
+C:\Users\ADMIN\Downloads\16-3-2025\פרוקיט מחודש\TripPlaning.Core\obj\Debug\net8.0\refint\TripPlaning.Core.dll
+C:\Users\ADMIN\Downloads\16-3-2025\פרוקיט מחודש\TripPlaning.Core\obj\Debug\net8.0\TripPlaning.Core.pdb
+C:\Users\ADMIN\Downloads\16-3-2025\פרוקיט מחודש\TripPlaning.Core\obj\Debug\net8.0\ref\TripPlaning.Core.dll
+C:\Users\משה ואלס\Downloads\פרוקיט מחודש\TripPlaning.Core\bin\Debug\net8.0\TripPlaning.Core.deps.json
+C:\Users\משה ואלס\Downloads\פרוקיט מחודש\TripPlaning.Core\bin\Debug\net8.0\TripPlaning.Core.dll
+C:\Users\משה ואלס\Downloads\פרוקיט מחודש\TripPlaning.Core\bin\Debug\net8.0\TripPlaning.Core.pdb
+C:\Users\משה ואלס\Downloads\פרוקיט מחודש\TripPlaning.Core\obj\Debug\net8.0\TripPlaning.Core.csproj.AssemblyReference.cache
+C:\Users\משה ואלס\Downloads\פרוקיט מחודש\TripPlaning.Core\obj\Debug\net8.0\TripPlaning.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\משה ואלס\Downloads\פרוקיט מחודש\TripPlaning.Core\obj\Debug\net8.0\TripPlaning.Core.AssemblyInfoInputs.cache
+C:\Users\משה ואלס\Downloads\פרוקיט מחודש\TripPlaning.Core\obj\Debug\net8.0\TripPlaning.Core.AssemblyInfo.cs
+C:\Users\משה ואלס\Downloads\פרוקיט מחודש\TripPlaning.Core\obj\Debug\net8.0\TripPlaning.Core.csproj.CoreCompileInputs.cache
+C:\Users\משה ואלס\Downloads\פרוקיט מחודש\TripPlaning.Core\obj\Debug\net8.0\TripPlaning.Core.dll
+C:\Users\משה ואלס\Downloads\פרוקיט מחודש\TripPlaning.Core\obj\Debug\net8.0\refint\TripPlaning.Core.dll
+C:\Users\משה ואלס\Downloads\פרוקיט מחודש\TripPlaning.Core\obj\Debug\net8.0\TripPlaning.Core.pdb
+C:\Users\משה ואלס\Downloads\פרוקיט מחודש\TripPlaning.Core\obj\Debug\net8.0\ref\TripPlaning.Core.dll
+C:\Users\משה ואלס\Desktop\שושי\TripPlaning.Core\bin\Debug\net8.0\TripPlaning.Core.deps.json
+C:\Users\משה ואלס\Desktop\שושי\TripPlaning.Core\bin\Debug\net8.0\TripPlaning.Core.dll
+C:\Users\משה ואלס\Desktop\שושי\TripPlaning.Core\bin\Debug\net8.0\TripPlaning.Core.pdb
+C:\Users\משה ואלס\Desktop\שושי\TripPlaning.Core\obj\Debug\net8.0\TripPlaning.Core.csproj.AssemblyReference.cache
+C:\Users\משה ואלס\Desktop\שושי\TripPlaning.Core\obj\Debug\net8.0\TripPlaning.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\משה ואלס\Desktop\שושי\TripPlaning.Core\obj\Debug\net8.0\TripPlaning.Core.AssemblyInfoInputs.cache
+C:\Users\משה ואלס\Desktop\שושי\TripPlaning.Core\obj\Debug\net8.0\TripPlaning.Core.AssemblyInfo.cs
+C:\Users\משה ואלס\Desktop\שושי\TripPlaning.Core\obj\Debug\net8.0\TripPlaning.Core.csproj.CoreCompileInputs.cache
+C:\Users\משה ואלס\Desktop\שושי\TripPlaning.Core\obj\Debug\net8.0\TripPlaning.Core.dll
+C:\Users\משה ואלס\Desktop\שושי\TripPlaning.Core\obj\Debug\net8.0\refint\TripPlaning.Core.dll
+C:\Users\משה ואלס\Desktop\שושי\TripPlaning.Core\obj\Debug\net8.0\TripPlaning.Core.pdb
+C:\Users\משה ואלס\Desktop\שושי\TripPlaning.Core\obj\Debug\net8.0\ref\TripPlaning.Core.dll
+C:\Users\Tamar\Desktop\המחשב הקודם\פרויקט טיול-גרסאות\שושי\TripPlaning.Core\bin\Debug\net8.0\TripPlaning.Core.deps.json
+C:\Users\Tamar\Desktop\המחשב הקודם\פרויקט טיול-גרסאות\שושי\TripPlaning.Core\bin\Debug\net8.0\TripPlaning.Core.dll
+C:\Users\Tamar\Desktop\המחשב הקודם\פרויקט טיול-גרסאות\שושי\TripPlaning.Core\bin\Debug\net8.0\TripPlaning.Core.pdb
+C:\Users\Tamar\Desktop\המחשב הקודם\פרויקט טיול-גרסאות\שושי\TripPlaning.Core\obj\Debug\net8.0\TripPlaning.Core.csproj.AssemblyReference.cache
+C:\Users\Tamar\Desktop\המחשב הקודם\פרויקט טיול-גרסאות\שושי\TripPlaning.Core\obj\Debug\net8.0\TripPlaning.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tamar\Desktop\המחשב הקודם\פרויקט טיול-גרסאות\שושי\TripPlaning.Core\obj\Debug\net8.0\TripPlaning.Core.AssemblyInfoInputs.cache
+C:\Users\Tamar\Desktop\המחשב הקודם\פרויקט טיול-גרסאות\שושי\TripPlaning.Core\obj\Debug\net8.0\TripPlaning.Core.AssemblyInfo.cs
+C:\Users\Tamar\Desktop\המחשב הקודם\פרויקט טיול-גרסאות\שושי\TripPlaning.Core\obj\Debug\net8.0\TripPlaning.Core.csproj.CoreCompileInputs.cache
+C:\Users\Tamar\Desktop\המחשב הקודם\פרויקט טיול-גרסאות\שושי\TripPlaning.Core\obj\Debug\net8.0\TripPlaning.Core.dll
+C:\Users\Tamar\Desktop\המחשב הקודם\פרויקט טיול-גרסאות\שושי\TripPlaning.Core\obj\Debug\net8.0\refint\TripPlaning.Core.dll
+C:\Users\Tamar\Desktop\המחשב הקודם\פרויקט טיול-גרסאות\שושי\TripPlaning.Core\obj\Debug\net8.0\TripPlaning.Core.pdb
+C:\Users\Tamar\Desktop\המחשב הקודם\פרויקט טיול-גרסאות\שושי\TripPlaning.Core\obj\Debug\net8.0\ref\TripPlaning.Core.dll

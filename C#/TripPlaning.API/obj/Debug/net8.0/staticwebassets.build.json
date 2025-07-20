@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "nh7mH04zDEe3jwfwDHORHjTRySSR49PJfR2bY/lTxMY=",
+  "Source": "TripPlaning.API",
+  "BasePath": "_content/TripPlaning.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

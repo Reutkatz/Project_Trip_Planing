@@ -1,0 +1,22 @@
+<div class="container">
+<div class="best-trip-container" *ngIf="bestTripPlaces$.length > 0; else noTrips">
+  <h2>הטיול המומלץ עבורך</h2>
+  <div class="trip-info" *ngIf="selectedTrip">
+    <p><strong></strong> {{ selectedTrip.title }}</p>
+    <p><strong>תקציב:</strong> {{ selectedTrip.budget }} ש''ח</p>
+  </div>
+  <div class="places-list" *ngIf="bestTripPlaces$.length > 0; else noTrips">
+    <div class="place-card" *ngFor="let place of bestTripPlaces$">
+      <h3>{{ place.name }}</h3>
+      <p><strong>כתובת:</strong> {{ place.address }}</p>
+      <p><strong>דירוג:</strong> {{ place.rating }} ({{ place.reviewsCount }} מדרגים)</p>
+      <p><strong>מחיר:</strong> {{ place.price }} ש''ח</p>
+      <a [href]="place.website" target="_blank">לאתר</a>
+    </div>
+  </div>
+</div>
+
+<ng-template #noTrips>
+  <p class="no-trips-message">אין מסלולים מתאימים לבקשה</p>
+</ng-template>
+</div>
